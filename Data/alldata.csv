@@ -1,0 +1,778 @@
+nct_id,atc_7,a,b,enrollment,first_received_date,conditions,n_arms_withdrawal,number_of_arms,index_condition,total_wd,nm_arms,checked
+NCT01167010,R03AC13,not a drug,formoterol,552,20/07/2010,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT01290874,R03BB04,salmeterol,tiotropium,1071,28/12/2010,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT01324362,R03AC12,NA,salmeterol,446,03/02/2011,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01345916,R03AC13,NA,formoterol,932,12/04/2011,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01357642,C01CA24,placebo,epinephrine,373,19/05/2011,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01577082,R03AC13,NA,formoterol,542,06/04/2012,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01867125,L04AC_a,placebo,lebrikizumab,1081,29/05/2013,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01868061,L04AC_a,NA,lebrikizumab,1068,30/05/2013,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT01976208,R03DX05,placebo,omalizumab,630,23/10/2013,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT02104674,L04AC_a,placebo,lebrikizumab,313,26/03/2014,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT02182479,R03AC04,placebo,fenoterol,631,02/07/2014,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT02294279,R03BA01,standard care,beclomethasone,360,14/11/2014,Asthma,Not reported to CTG,NA,Asthma and allergy,NA,NA,3
+NCT02761252,R03DC03,placebo,montelukast,420,28/04/2016,Asthma,Not reported to CTG,NA,Asthma and allergy,32,NA,1
+NCT01475721,R03AC12,NA,salmeterol,11751,17/11/2011,Asthma,2,6,Asthma and allergy,25,1,1
+NCT01086384,R03AC_2,NA,vilanterol,2020,11/03/2010,Asthma,3,2,Asthma and allergy,272,1,1
+NCT01147848,R03AC_2,salmeterol,vilanterol,806,27/05/2010,Asthma,3,2,Asthma and allergy,91,1,1
+NCT01698320,R03AC02,placebo,salbutamol,337,14/09/2012,Asthma,3,2,Asthma and allergy,16,1,1
+NCT01165138,R03AC_2,NA,vilanterol,612,15/07/2010,Asthma,4,3,Asthma and allergy,94,1,1
+NCT02031640,R03BA01,NA,beclomethasone,532,07/01/2014,Asthma,6,5,Asthma and allergy,49,1,1
+NCT02139644,R03BA01,placebo,beclomethasone,787,09/05/2014,Asthma,6,5,Asthma and allergy,45,1,1
+NCT02141854,R03AC02,placebo,salbutamol,728,09/05/2014,Asthma,6,5,Asthma and allergy,78,1,1
+NCT02175771,R03AC12,NA,salmeterol,674,24/06/2014,Asthma,9,8,Asthma and allergy,79,1,1
+NCT01218009,R03AC02,placebo,salbutamol,331,07/10/2010,Asthma,2,2,Asthma and allergy,331,0,0
+NCT01285323,R03DX08,placebo,reslizumab,464,25/01/2011,Asthma,2,2,Asthma and allergy,63,0,0
+NCT01287039,R03DX08,placebo,reslizumab,489,28/01/2011,Asthma,2,2,Asthma and allergy,56,0,0
+NCT01444430,R03AC13,NA,formoterol,12460,23/09/2011,Asthma,2,2,Asthma and allergy,142,0,0
+NCT01471340,R03AC13,NA,formoterol,11745,10/11/2011,Asthma,2,2,Asthma and allergy,12,0,0
+NCT01498653,R03AC_2,NA,vilanterol,313,21/12/2011,Asthma,2,2,Asthma and allergy,54,0,0
+NCT01498679,R03AC_2,placebo,vilanterol,311,21/12/2011,Asthma,2,2,Asthma and allergy,111,0,0
+NCT01508936,R03DX08,placebo,reslizumab,511,03/01/2012,Asthma,2,2,Asthma and allergy,102,0,0
+NCT01687283,R03BA05,budesonide,fluticasone,316,23/08/2012,Asthma,2,2,Asthma and allergy,62,0,0
+NCT01706198,R03AC_2,NA,vilanterol,4232,04/10/2012,Asthma,2,2,Asthma and allergy,367,0,0
+NCT01845025,R03AC13,placebo,formoterol,827,22/04/2013,Asthma,2,2,Asthma and allergy,162,0,0
+NCT02224157,R03AC03,formoterol,terbutaline,4215,19/08/2014,Asthma,2,2,Asthma and allergy,221,0,0
+NCT02281318,L04AC06,placebo,mepolizumab,556,30/10/2014,Asthma,2,2,Asthma and allergy,19,0,0
+NCT02452190,R03DX08,placebo,reslizumab,469,13/05/2015,Asthma,2,2,Asthma and allergy,59,0,0
+NCT01134042,R03AC_2,NA,vilanterol,587,27/05/2010,Asthma,3,3,Asthma and allergy,110,0,0
+NCT01159912,R03BA05,NA,fluticasone,350,08/07/2010,Asthma,3,3,Asthma and allergy,88,0,0
+NCT01181895,R03AC_2,NA,vilanterol,348,15/07/2010,Asthma,3,3,Asthma and allergy,49,0,0
+NCT01270464,R03DX08,placebo,reslizumab,315,29/12/2010,Asthma,3,3,Asthma and allergy,50,0,0
+NCT01316380,R03BB04,placebo,tiotropium,465,15/03/2011,Asthma,3,3,Asthma and allergy,10,0,0
+NCT01436110,R03BA05,placebo,fluticasone,351,15/09/2011,Asthma,3,3,Asthma and allergy,88,0,0
+NCT01437995,R03AC12,NA,salmeterol,459,05/09/2011,Asthma,3,3,Asthma and allergy,49,0,0
+NCT01691521,L04AC06,NA,mepolizumab,580,20/09/2012,Asthma,3,3,Asthma and allergy,37,0,0
+NCT01914757,L04AC_5,placebo,benralizumab,2508,31/07/2013,Asthma,3,3,Asthma and allergy,125,0,0
+NCT01928771,L04AC_5,placebo,benralizumab,2681,16/08/2013,Asthma,3,3,Asthma and allergy,126,0,0
+NCT02149199,R03AC13,NA,formoterol,3850,16/05/2014,Asthma,3,3,Asthma and allergy,473,0,0
+NCT02245672,R03AC12,placebo,salmeterol,2725,15/09/2014,Asthma,3,3,Asthma and allergy,31,0,0
+NCT02301975,R03AC_2,NA,vilanterol,1526,24/11/2014,Asthma,3,3,Asthma and allergy,78,0,0
+NCT01172808,R03BB04,NA,tiotropium,1071,26/07/2010,Asthma,4,4,Asthma and allergy,72,0,0
+NCT01172821,R03BB04,NA,tiotropium,1032,26/07/2010,Asthma,4,4,Asthma and allergy,56,0,0
+NCT01472757,R03BA,placebo,corticosteroid,374,11/11/2011,Asthma,4,4,Asthma and allergy,81,0,0
+NCT02094937,R03AC_2,placebo,vilanterol,430,20/03/2014,Asthma,4,4,Asthma and allergy,60,0,0
+NCT02414854,L04AC_7,placebo,dupilumab,1902,08/04/2015,Asthma,4,4,Asthma and allergy,138,0,0
+NCT02513160,R03BA01,placebo,beclomethasone,713,28/07/2015,Asthma,4,4,Asthma and allergy,13,0,0
+NCT01079130,R03AC18,NA,indacaterol,511,01/03/2010,Asthma,6,6,Asthma and allergy,28,0,0
+NCT01118312,R03BA07,placebo,mometasone,388,28/04/2010,"Asthma, Rhinitis",2,2,Asthma and allergy,69,0,0
+NCT01202903,R03DX05,placebo,omalizumab,616,14/09/2010,"Asthma, Rhinitis",2,2,Asthma and allergy,27,0,0
+NCT01430260,R03BA08,levocetirizine,ciclesonide,349,06/09/2011,Rhinitis,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT01470053,R03BA07,NA,mometasone,347,08/11/2011,Rhinitis,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT02246920,R03BA05,placebo,fluticasone,1110,18/09/2014,Rhinitis,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT02498509,R03BA07,NA,mometasone,459,05/07/2015,Rhinitis,Not reported to CTG,NA,Asthma and allergy,NA,NA,2
+NCT01413958,C01CA06,placebo,phenylephrine,575,09/08/2011,Rhinitis,2,2,Asthma and allergy,1,0,0
+NCT01235130,C10AX06,placebo,omega-3-triglycerides incl. other esters and acids,337,29/07/2010,Atrial Fibrillation,Not reported to CTG,NA,Atrial Fibrillation,NA,NA,2
+NCT01281787,C07AB02,losartan,metoprolol,320,21/12/2010,Atrial Fibrillation,Not reported to CTG,NA,Atrial Fibrillation,NA,NA,2
+NCT01573143,C10AA07,placebo,rosuvastatin,1922,13/02/2012,Atrial Fibrillation,Not reported to CTG,NA,Atrial Fibrillation,NA,NA,3
+NCT02227550,B01AF02,vitamin k,apixaban,676,27/06/2014,Atrial Fibrillation,Not reported to CTG,NA,Atrial Fibrillation,NA,NA,3
+NCT03021343,M04AC01,standard care,colchicine,360,22/12/2015,Atrial Fibrillation,Not reported to CTG,NA,Atrial Fibrillation,12,NA,1
+NCT01151137,C01BD07,placebo,dronedarone,3236,22/06/2010,Atrial Fibrillation,2,2,Atrial Fibrillation,44,0,0
+NCT01674647,B01AF01,vitamin k,rivaroxaban,1504,27/08/2012,Atrial Fibrillation,2,2,Atrial Fibrillation,258,0,0
+NCT02072434,B01AF_1,enoxaparin,edoxaban,2199,20/02/2014,Atrial Fibrillation,2,2,Atrial Fibrillation,144,0,0
+NCT02100228,B01AF02,heparin,apixaban,1500,05/02/2014,Atrial Fibrillation,2,2,Atrial Fibrillation,165,0,0
+NCT02132767,C01BD01,NA,amiodarone,523,05/05/2014,Atrial Fibrillation,2,2,Atrial Fibrillation,32,0,0
+NCT02348723,B01AE07,warfarin,dabigatran,678,27/01/2015,Atrial Fibrillation,2,2,Atrial Fibrillation,54,0,0
+NCT02164864,B01AE07,warfarin,dabigatran,2725,13/06/2014,Atrial Fibrillation,3,3,Atrial Fibrillation,287,0,0
+NCT01493557,A02BC02,NA,pantoprazole,1067,12/12/2011,"Atrial Fibrillation, Embolism",3,3,Atrial Fibrillation,26,0,0
+NCT01182441,B01AA03,not a drug,warfarin,475,12/08/2010,"Atrial Fibrillation, Stroke",2,2,Atrial Fibrillation,339,0,0
+NCT01087762,L04AB05,NA,certolizumab pegol,325,15/03/2010,Spondylarthropathies,5,7,Axial Spondyloarthritis,27,1,1
+NCT01209702,L04AC07,placebo,tocilizumab,306,24/09/2010,"Spondylitis, Ankylosing",Not reported to CTG,NA,Axial Spondyloarthritis,NA,NA,2
+NCT02528201,M01AB05,celecoxib,diclofenac,330,18/06/2015,"Spondylitis, Ankylosing",Not reported to CTG,NA,Axial Spondyloarthritis,NA,NA,2
+NCT01208207,M01AH05,naproxen,etoricoxib,1015,22/09/2010,"Spondylitis, Ankylosing",7,4,Axial Spondyloarthritis,96,1,1
+NCT01583374,L04AA32,placebo,apremilast,490,20/04/2012,"Spondylitis, Ankylosing",9,3,Axial Spondyloarthritis,60,1,1
+NCT02552212,L04AB05,placebo,certolizumab pegol,317,15/09/2015,"Spondylitis, Ankylosing",3,2,Axial Spondyloarthritis,32,1,1
+NCT01114880,L04AB04,NA,adalimumab,344,05/02/2010,"Spondylitis, Ankylosing",2,2,Axial Spondyloarthritis,7,0,0
+NCT01358175,L04AC10,placebo,secukinumab,371,19/05/2011,"Spondylitis, Ankylosing",3,3,Axial Spondyloarthritis,81,0,0
+NCT01808118,L04AB04,placebo,adalimumab,673,07/03/2013,"Spondylitis, Ankylosing",3,3,Axial Spondyloarthritis,368,0,0
+NCT02159053,L04AC10,placebo,secukinumab,350,28/02/2014,"Spondylitis, Ankylosing",3,3,Axial Spondyloarthritis,61,0,0
+NCT02438787,L04AC05,NA,ustekinumab,315,06/05/2015,"Spondylitis, Ankylosing",3,3,Axial Spondyloarthritis,247,0,0
+NCT02121613,G04CA02,not a drug,tamsulosin,833,18/04/2014,Prostatic Hyperplasia,Not reported to CTG,NA,Benign Prostatic Hyperplasia,NA,NA,2
+NCT02244229,G04CA02,finasteride,tamsulosin,403,18/09/2014,Prostatic Hyperplasia,Not reported to CTG,NA,Benign Prostatic Hyperplasia,NA,NA,2
+NCT02244255,G04CA03,tamsulosin,hytrin,1993,18/09/2014,Prostatic Hyperplasia,Not reported to CTG,NA,Benign Prostatic Hyperplasia,NA,NA,2
+NCT02390882,G04CA02,placebo,tamsulosin,494,23/02/2015,Prostatic Hyperplasia,Not reported to CTG,NA,Benign Prostatic Hyperplasia,NA,NA,3
+NCT01139762,G04BE08,placebo,tadalafil,696,01/06/2010,Prostatic Hyperplasia,3,2,Benign Prostatic Hyperplasia,104,1,1
+NCT01294592,G04CB02,NA,dutasteride,742,10/02/2011,Prostatic Hyperplasia,2,2,Benign Prostatic Hyperplasia,150,0,0
+NCT01460342,G04BE08,NA,tadalafil,610,24/10/2011,Prostatic Hyperplasia,2,2,Benign Prostatic Hyperplasia,25,0,0
+NCT01777269,G04CA02,placebo,tamsulosin,489,24/01/2013,Prostatic Hyperplasia,2,2,Benign Prostatic Hyperplasia,114,0,0
+NCT02058368,G04CB02,NA,dutasteride,609,23/01/2014,Prostatic Hyperplasia,2,2,Benign Prostatic Hyperplasia,95,0,0
+NCT01937871,G04BE08,NA,tadalafil,909,04/09/2013,Prostatic Hyperplasia,3,3,Benign Prostatic Hyperplasia,52,0,0
+NCT02656173,G04BD12,placebo,mirabegron,730,13/01/2016,"Prostatic Hyperplasia, Urinary Bladder, Overactive",2,2,Benign Prostatic Hyperplasia,24,0,0
+NCT01094457,B01AC23,NA,cilostazol,840,26/03/2010,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01130246,L04AX_5,placebo,varespladib,5189,19/04/2010,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01185938,C10AA07,standard care,rosuvastatin,500,03/08/2010,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01538446,B01AC04,not a drug,clopidogrel,880,20/02/2012,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01870804,C10AA07,atorvastatin,rosuvastatin,760,30/05/2013,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01959451,B01AC22,clopidogrel,prasugrel,2600,08/10/2013,Acute Coronary Syndrome,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01087723,B01AE06,heparin,bivalirudin,2198,12/03/2010,Acute Coronary Syndrome,2,2,Coronary artery disease,34,0,0
+NCT01147250,A10BJ03,placebo,lixisenatide,6068,17/06/2010,Acute Coronary Syndrome,2,2,Coronary artery disease,215,0,0
+NCT01294462,B01AC24,clopidogrel,ticagrelor,801,10/02/2011,Acute Coronary Syndrome,2,2,Coronary artery disease,129,0,0
+NCT01603082,B01AC24,clopidogrel,ticagrelor,343,18/05/2012,Acute Coronary Syndrome,2,2,Coronary artery disease,3,0,0
+NCT01663402,C10AX14,placebo,alirocumab,18600,08/08/2012,Acute Coronary Syndrome,2,2,Coronary artery disease,3599,0,0
+NCT02145468,R03DX_1,placebo,losmapimod,3503,15/05/2014,Acute Coronary Syndrome,2,2,Coronary artery disease,13,0,0
+NCT02094963,B01AC24,clopidogrel,ticagrelor,800,10/03/2014,"Acute Coronary Syndrome, Angina Pectoris, Coronary Artery Disease",Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01293097,C10AA05,C10AA HMG CoA reductase inhibitors,atorvastatin,2884,09/02/2011,"Acute Coronary Syndrome, Angina Pectoris, Coronary Artery Disease, Myocardial Infarction",Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01156571,B01AC25,not a drug,cangrelor,11145,29/06/2010,"Acute Coronary Syndrome, Atherosclerosis",Not reported to CTG,NA,Coronary artery disease,36,NA,1
+NCT01396395,C01DX16,NA,nicorandil,402,15/07/2011,"Angina Pectoris, Coronary Artery Disease",2,2,Coronary artery disease,67,0,0
+NCT01442038,C01EB18,placebo,ranolazine,2651,22/09/2011,"Angina Pectoris, Coronary Artery Disease",2,2,Coronary artery disease,582,0,0
+NCT01121224,B01AC04,placebo,clopidogrel,599,07/05/2010,Atherosclerosis,Not reported to CTG,NA,Coronary artery disease,42,NA,1
+NCT01252953,C10AX_1,placebo,anacetrapib,30624,24/11/2010,Atherosclerosis,2,2,Coronary artery disease,76,0,0
+NCT02546323,C10AA07,placebo,rosuvastatin,543,26/08/2015,Atherosclerosis,2,2,Coronary artery disease,126,0,0
+NCT02666664,C10AX_1,placebo,bempedoic acid,2233,20/01/2016,"Atherosclerosis, Hypercholesterolemia",2,2,Coronary artery disease,120,0,0
+NCT02104817,C10AX06,not a drug,omega-3-triglycerides incl. other esters and acids,13086,02/04/2014,"Atherosclerosis, Hyperlipidemias",2,2,Coronary artery disease,12906,0,0
+NCT01327846,L04AC08,placebo,canakinumab,10000,29/03/2011,"Atherosclerosis, Myocardial Infarction",4,4,Coronary artery disease,119,0,0
+NCT01069003,B01AC,placebo,thienopyridine,811,12/02/2010,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,100,NA,1
+NCT01186146,B01AC04,NA,clopidogrel,5000,17/08/2010,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01192724,B01AC23,NA,cilostazol,630,31/08/2010,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01291641,C10AX02,NA,probucol,342,31/01/2011,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01346865,B01AC23,placebo,cilostazol,402,22/04/2011,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01349777,B01AC__,clopidogrel,clopidogrel resinate,1056,22/04/2011,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01371058,C10AX08,clopidogrel,policosanol,350,31/05/2011,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01498003,B01AC17,not a drug,tirofiban,748,11/12/2011,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT02494284,B01AC06,NA,acetylsalicylic acid,364,05/07/2015,Coronary Artery Disease,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01813435,B01AC04,NA,clopidogrel,16000,12/02/2013,Coronary Artery Disease,2,2,Coronary artery disease,3177,0,0
+NCT01106534,B01AC22,placebo,prasugrel,2997,16/04/2010,"Coronary Artery Disease, Coronary Restenosis",1,2,Coronary artery disease,37,1,1
+NCT02017171,M04AA01,placebo,allopurinol,530,16/12/2013,"Coronary Artery Disease, Diabetic Nephropathies",2,2,Coronary artery disease,108,0,0
+NCT02446990,C01EB17,placebo,ivabradine,19102,05/05/2015,"Coronary Artery Disease, Heart Failure",2,2,Coronary artery disease,1378,0,0
+NCT01059136,C03DA01,standard care,spironolactone,1603,28/01/2010,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01321255,C09AA05,NA,ramipril,2118,21/03/2011,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01502774,L04AD01,placebo,ciclosporin,970,28/12/2011,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01696110,B01AC17,NA,tirofiban,2194,22/08/2012,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01930682,B01AD02,NA,alteplase,344,19/08/2013,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT02181985,B01AC13,NA,abciximab,5989,02/07/2014,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT02181998,B01AB01,enoxaparin,heparin,1606,02/07/2014,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT02311231,B01AE06,heparin,bivalirudin,6012,27/11/2014,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT02777580,B01AD11,NA,tenecteplase,600,13/05/2016,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT02808767,B01AC24,prasugrel,ticagrelor,1226,12/06/2016,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT02835534,B01AD02,not a drug,alteplase,6200,12/06/2016,Myocardial Infarction,Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01176968,C03DA04,placebo,eplerenone,1012,04/08/2010,Myocardial Infarction,2,2,Coronary artery disease,166,0,0
+NCT01347580,B01AC24,placebo,ticagrelor,1875,19/04/2011,Myocardial Infarction,2,2,Coronary artery disease,121,0,0
+NCT01519518,B01AE06,heparin,bivalirudin,1829,24/01/2012,Myocardial Infarction,2,2,Coronary artery disease,17,0,0
+NCT01543555,C10AA05,placebo,atorvastatin,648,27/02/2012,"Myocardial Infarction, Peripheral Arterial Disease",Not reported to CTG,NA,Coronary artery disease,NA,NA,3
+NCT01225562,B01AC24,placebo,ticagrelor,21379,09/07/2010,"Myocardial Infarction, Stroke, Thrombosis",3,3,Coronary artery disease,164,0,0
+NCT02454491,B01AB01,verapamil,heparin,418,13/05/2015,Myocardial Ischemia,Not reported to CTG,NA,Coronary artery disease,NA,NA,2
+NCT01741194,N06DX_1,placebo,ac-1204,418,30/11/2012,Alzheimer Disease,Not reported to CTG,NA,Dementia (any),NA,NA,3
+NCT01969123,N06DX_4,placebo,encenicline,474,21/10/2013,Alzheimer Disease,Not reported to CTG,NA,Dementia (any),NA,NA,2
+NCT01969136,N06DX_4,placebo,encenicline,403,21/10/2013,Alzheimer Disease,Not reported to CTG,NA,Dementia (any),NA,NA,2
+NCT02017340,C08CA10,placebo,nilvadipine,511,16/12/2013,Alzheimer Disease,Not reported to CTG,NA,Dementia (any),NA,NA,3
+NCT02080364,N06DX_3,placebo,azeliragon,875,25/02/2014,Alzheimer Disease,4,2,Dementia (any),557,1,1
+NCT02006654,N06DX_2,placebo,ae58054,734,05/12/2013,Alzheimer Disease,2,2,Dementia (any),89,0,0
+NCT01955161,N06DX_2,placebo,ae58054,933,27/09/2013,Alzheimer Disease,3,3,Dementia (any),87,0,0
+NCT02006641,N06DX_2,placebo,ae58054,858,05/12/2013,Alzheimer Disease,3,3,Dementia (any),95,0,0
+NCT01467323,A10AB05,insulin,insulin aspart,303,04/11/2011,"Diabetes Mellitus, Type 1, Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Any",NA,NA,3
+NCT01520818,A10AB05,insulin,insulin aspart,666,25/01/2012,"Diabetes Mellitus, Type 1, Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Any",NA,NA,3
+NCT01252056,B01AC23,NA,cilostazol,353,21/04/2010,Diabetic Nephropathies,Not reported to CTG,NA,"Diabetes Mellitus, Any",NA,NA,2
+NCT01272219,A10BJ02,placebo,liraglutide,3731,06/01/2011,Prediabetic State,6,5,"Diabetes Mellitus, Any",1141,1,1
+NCT01483560,A10BA02,placebo,metformin,428,23/11/2011,"Diabetes Mellitus, Type 1",Not reported to CTG,NA,"Diabetes Mellitus, Type 1",41,NA,1
+NCT01486940,A10AE05,insulin,insulin detemir,598,05/12/2011,"Diabetes Mellitus, Type 1",Not reported to CTG,NA,"Diabetes Mellitus, Type 1",NA,NA,3
+NCT01707134,A10AB05,NA,insulin aspart,753,10/10/2012,"Diabetes Mellitus, Type 1",Not reported to CTG,NA,"Diabetes Mellitus, Type 1",NA,NA,3
+NCT03220425,A10AE05,insulin,insulin detemir,752,13/07/2017,"Diabetes Mellitus, Type 1",Not reported to CTG,NA,"Diabetes Mellitus, Type 1",NA,NA,3
+NCT01079234,A10AE06,insulin glargine,insulin degludec,493,02/03/2010,"Diabetes Mellitus, Type 1",4,3,"Diabetes Mellitus, Type 1",64,1,1
+NCT01836523,A10BJ02,placebo,liraglutide,1398,17/04/2013,"Diabetes Mellitus, Type 1",4,6,"Diabetes Mellitus, Type 1",301,1,1
+NCT02098395,A10BJ02,placebo,liraglutide,835,25/03/2014,"Diabetes Mellitus, Type 1",4,6,"Diabetes Mellitus, Type 1",127,1,1
+NCT01074268,A10AE06,insulin detemir,insulin degludec,456,22/02/2010,"Diabetes Mellitus, Type 1",2,2,"Diabetes Mellitus, Type 1",35,0,0
+NCT02531035,A10BK_3,placebo,sotagliflozin,1405,20/08/2015,"Diabetes Mellitus, Type 1",2,2,"Diabetes Mellitus, Type 1",176,0,0
+NCT01445951,A10AB05,insulin,insulin aspart,518,30/09/2011,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",99,0,0
+NCT02268214,A10BK01,placebo,dapagliflozin,833,15/10/2014,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",125,0,0
+NCT02384941,A10BK_3,placebo,sotagliflozin,750,23/02/2015,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",126,0,0
+NCT02414958,A10BK03,placebo,empagliflozin,730,08/04/2015,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",66,0,0
+NCT02421510,A10BK_3,placebo,sotagliflozin,782,15/04/2015,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",104,0,0
+NCT02460978,A10BK01,placebo,dapagliflozin,815,01/06/2015,"Diabetes Mellitus, Type 1",3,3,"Diabetes Mellitus, Type 1",85,0,0
+NCT02580591,A10BK03,NA,empagliflozin,977,19/10/2015,"Diabetes Mellitus, Type 1",4,4,"Diabetes Mellitus, Type 1",53,0,0
+NCT01425359,C01EB18,NA,ranolazine,949,24/08/2011,"Angina Pectoris, Coronary Artery Disease, Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",41,0,0
+NCT01099137,A10BH02,A10BB Sulfonylureas,vildagliptin,344,05/04/2010,Diabetes Mellitus,Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01774474,L01XC07,NA,bevacizumab,1127,07/01/2013,Diabetes Mellitus,Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT02229383,A10BJ01,placebo,exenatide,464,28/08/2014,Diabetes Mellitus,2,2,"Diabetes Mellitus, Type 2",42,0,0
+NCT02419612,A10BH03,glimepiride,saxagliptin,444,14/04/2015,Diabetes Mellitus,2,2,"Diabetes Mellitus, Type 2",40,0,0
+NCT02229396,A10BK01,exenatide,dapagliflozin,695,28/08/2014,Diabetes Mellitus,3,3,"Diabetes Mellitus, Type 2",250,0,0
+NCT01890122,A10BA02,NA,metformin,647,26/06/2013,Diabetes Mellitus,4,4,"Diabetes Mellitus, Type 2",136,0,0
+NCT01368536,C03BA04,NA,chlorthalidone,975,06/06/2011,"Diabetes Mellitus, Hypertension",3,3,"Diabetes Mellitus, Type 2",169,0,0
+NCT01051011,A10BJ_3,insulin glargine,taspoglutide,370,15/01/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01121835,A10AE04,insulin,insulin glargine,934,06/05/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01144338,A10BJ01,placebo,exenatide,14752,10/06/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",565,NA,1
+NCT01224366,A10BH02,placebo,vildagliptin,448,18/10/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01233622,A10BH02,placebo,vildagliptin,317,01/11/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01257451,A10BH02,placebo,vildagliptin,431,06/12/2010,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01455857,A10BJ01,placebo,exenatide,460,18/10/2011,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01455870,A10BH01,exenatide,sitagliptin,535,18/10/2011,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01455896,A10BJ01,placebo,exenatide,4156,18/10/2011,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01459809,A10BB12,NA,glimepiride,538,24/10/2011,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01541956,A10BH02,NA,vildagliptin,3091,24/02/2012,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01602003,A10BH06,sitagliptin,gemigliptin,425,15/05/2012,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01632163,A10BJ03,placebo,lixisenatide,447,26/06/2012,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01758380,A10BB09,vildagliptin,gliclazide,557,24/12/2012,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01787396,A10BH06,placebo,gemigliptin,433,06/02/2013,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT01794143,A10BJ02,insulin,liraglutide,5000,13/02/2013,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT02008682,A10BJ02,sitagliptin,liraglutide,368,05/12/2013,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",41,NA,1
+NCT02173457,A10BX_1,sitagliptin,chiglitazar,738,20/06/2014,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT02343926,A10BH06,vildagliptin,gemigliptin,443,16/01/2015,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT02467920,A10AB05,insulin glargine,insulin aspart,349,02/06/2015,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT02477865,A10BJ_1,placebo,loxenatide,406,28/05/2015,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT02477969,A10BJ_1,placebo,loxenatide,587,30/05/2015,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,2
+NCT02967211,A10AE06,NA,insulin degludec,609,16/11/2016,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT02967224,A10AE06,NA,insulin degludec,705,16/11/2016,"Diabetes Mellitus, Type 2",Not reported to CTG,NA,"Diabetes Mellitus, Type 2",NA,NA,3
+NCT01930188,A10BJ_2,sitagliptin,semaglutide,1231,23/08/2013,"Diabetes Mellitus, Type 2",3,4,"Diabetes Mellitus, Type 2",62,1,1
+NCT02054897,A10BJ_2,placebo,semaglutide,388,03/02/2014,"Diabetes Mellitus, Type 2",3,4,"Diabetes Mellitus, Type 2",29,1,1
+NCT02305381,A10BJ_2,placebo,semaglutide,397,28/11/2014,"Diabetes Mellitus, Type 2",3,4,"Diabetes Mellitus, Type 2",17,1,1
+NCT01734785,A10BK03,placebo,empagliflozin,333,16/11/2012,"Diabetes Mellitus, Type 2",4,3,"Diabetes Mellitus, Type 2",19,1,1
+NCT02240680,A10BH05,placebo,linagliptin,302,15/09/2014,"Diabetes Mellitus, Type 2",4,2,"Diabetes Mellitus, Type 2",23,1,1
+NCT02849080,A10BJ_2,sitagliptin,semaglutide,504,21/07/2016,"Diabetes Mellitus, Type 2",4,2,"Diabetes Mellitus, Type 2",19,1,1
+NCT01081834,A10BK02,placebo,canagliflozin,678,04/03/2010,"Diabetes Mellitus, Type 2",5,3,"Diabetes Mellitus, Type 2",88,1,1
+NCT01709305,A10BF01,glimepiride,acarbose,5570,16/10/2012,"Diabetes Mellitus, Type 2",5,4,"Diabetes Mellitus, Type 2",637,1,1
+NCT01778049,A10BH05,NA,linagliptin,708,24/01/2013,"Diabetes Mellitus, Type 2",6,8,"Diabetes Mellitus, Type 2",273,1,1
+NCT02489968,A10BH05,placebo,linagliptin,880,27/05/2015,"Diabetes Mellitus, Type 2",6,4,"Diabetes Mellitus, Type 2",456,1,1
+NCT01159600,A10BK03,NA,empagliflozin,1504,08/07/2010,"Diabetes Mellitus, Type 2",8,4,"Diabetes Mellitus, Type 2",137,1,1
+NCT01318135,A10BB12,metformin,glimepiride,576,16/03/2011,"Diabetes Mellitus, Type 2",8,4,"Diabetes Mellitus, Type 2",62,1,1
+NCT01422876,A10BK03,not a drug,empagliflozin,1405,23/08/2011,"Diabetes Mellitus, Type 2",10,5,"Diabetes Mellitus, Type 2",64,1,1
+NCT01368081,A10BK03,placebo,empagliflozin,1162,19/05/2011,"Diabetes Mellitus, Type 2",13,3,"Diabetes Mellitus, Type 2",96,1,1
+NCT01042977,A10BK01,placebo,dapagliflozin,964,05/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",96,0,0
+NCT01045447,A10AE06,insulin glargine,insulin degludec,465,08/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",64,0,0
+NCT01045707,A10AE06,insulin glargine,insulin degludec,530,08/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",79,0,0
+NCT01046110,A10AE06,sitagliptin,insulin degludec,458,08/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",110,0,0
+NCT01059799,A10AE06,insulin glargine,insulin degludec,435,29/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",41,0,0
+NCT01059812,A10AE06,NA,insulin degludec,424,29/01/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",53,0,0
+NCT01068652,A10AE05,NA,insulin detemir,403,12/02/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",33,0,0
+NCT01068665,A10AE06,insulin glargine,insulin degludec,460,12/02/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",59,0,0
+NCT01068678,A10AE06,insulin glargine,insulin degludec,460,12/02/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",62,0,0
+NCT01076075,A10BH01,NA,sitagliptin,427,24/02/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",88,0,0
+NCT01076647,A10AE06,insulin glargine,insulin degludec,467,25/02/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",50,0,0
+NCT01098539,A10BJ04,sitagliptin,albiglutide,507,01/04/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",119,0,0
+NCT01107886,A10BH03,placebo,saxagliptin,18206,25/03/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",416,0,0
+NCT01117350,A10BJ02,insulin glargine,liraglutide,978,04/05/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",117,0,0
+NCT01123980,A10AB05,insulin glargine,insulin aspart,521,13/05/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",43,0,0
+NCT01128894,A10BJ04,liraglutide,albiglutide,841,29/04/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",126,0,0
+NCT01131182,A10BH01,sulfonylurea,sitagliptin,1147,25/05/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",32,0,0
+NCT01137812,A10BK02,sitagliptin,canagliflozin,756,03/06/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",291,0,0
+NCT01167881,A10BK03,glimepiride,empagliflozin,1549,15/07/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",350,0,0
+NCT01169779,A10BJ03,placebo,lixisenatide,391,23/07/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",28,0,0
+NCT01175811,A10AE04,NA,insulin glargine,402,03/08/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",30,0,0
+NCT01175824,A10AE04,NA,insulin glargine,478,03/08/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",38,0,0
+NCT01177384,A10BH01,placebo,sitagliptin,380,30/06/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",40,0,0
+NCT01179048,A10BJ02,placebo,liraglutide,9340,06/08/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",298,0,0
+NCT01189890,A10BH01,glimepiride,sitagliptin,480,25/08/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",76,0,0
+NCT01214239,A10BH05,placebo,linagliptin,300,28/09/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",30,0,0
+NCT01215097,A10BH05,placebo,linagliptin,306,28/09/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",26,0,0
+NCT01243424,A10BH05,glimepiride,linagliptin,6072,17/11/2010,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",248,0,0
+NCT01296412,A10BJ02,sitagliptin,liraglutide,653,14/02/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",121,0,0
+NCT01340768,A10BH01,sulfonylurea,sitagliptin,870,24/03/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",22,0,0
+NCT01392573,A10BJ02,NA,liraglutide,413,07/07/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",67,0,0
+NCT01392677,A10BK01,placebo,dapagliflozin,311,11/07/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",16,0,0
+NCT01394952,A10BJ05,placebo,dulaglutide,9622,13/07/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",34,0,0
+NCT01438814,A10BH05,placebo,linagliptin,689,21/09/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",28,0,0
+NCT01462266,A10BH01,placebo,sitagliptin,660,27/10/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",62,0,0
+NCT01472185,C01EB18,NA,ranolazine,465,11/11/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",68,0,0
+NCT01494987,C01EB18,placebo,ranolazine,431,15/12/2011,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",56,0,0
+NCT01512108,A10BJ02,"A10B BLOOD GLUCOSE LOWERING DRUGS, EXCL. INSULINS",liraglutide,363,10/01/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",31,0,0
+NCT01512979,A10BA02,NA,metformin,316,16/01/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",41,0,0
+NCT01528254,A10BH02,placebo,vildagliptin,1986,03/02/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",403,0,0
+NCT01555164,C01EB18,NA,ranolazine,442,13/03/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",75,0,0
+NCT01584232,A10BJ05,insulin glargine,dulaglutide,361,23/04/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",11,0,0
+NCT01590771,A10BH01,placebo,sitagliptin,498,01/05/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",58,0,0
+NCT01590797,A10BH01,placebo,sitagliptin,467,01/05/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",33,0,0
+NCT01617434,A10BJ02,placebo,liraglutide,451,08/06/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",86,0,0
+NCT01618162,A10AE06,placebo,insulin degludec,435,11/06/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",73,0,0
+NCT01619059,A10BH03,placebo,saxagliptin,315,12/06/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",17,0,0
+NCT01624259,A10BJ05,liraglutide,dulaglutide,599,18/06/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",61,0,0
+NCT01646320,A10BK01,placebo,dapagliflozin,320,18/07/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",19,0,0
+NCT01664247,A10AE06,placebo,insulin degludec,346,10/08/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",55,0,0
+NCT01676116,A10AE06,exenatide,insulin degludec,438,28/08/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",45,0,0
+NCT01730534,A10BK01,placebo,dapagliflozin,17276,15/11/2012,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",254,0,0
+NCT01769378,A10BJ05,placebo,dulaglutide,300,14/01/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",29,0,0
+NCT01792518,A10BH05,placebo,linagliptin,360,14/02/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",15,0,0
+NCT01798706,A10BJ03,placebo,lixisenatide,350,22/02/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",42,0,0
+NCT01849289,A10AE06,insulin glargine,insulin degludec,833,06/05/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",56,0,0
+NCT01850615,A10AB05,NA,insulin aspart,323,17/04/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",14,0,0
+NCT01885208,A10BJ_2,exenatide,semaglutide,813,20/06/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",70,0,0
+NCT01897532,A10BH05,placebo,linagliptin,7003,09/07/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",103,0,0
+NCT01907854,A10BJ02,sitagliptin,liraglutide,407,22/07/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",29,0,0
+NCT01917656,A10BJ02,sulfonylurea,liraglutide,343,29/07/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",50,0,0
+NCT01952145,A10AE06,insulin glargine,insulin degludec,557,24/09/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",42,0,0
+NCT01959529,A10AE06,insulin glargine,insulin degludec,7637,08/10/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",148,0,0
+NCT01973231,A10BJ03,liraglutide,lixisenatide,404,23/10/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",23,0,0
+NCT01989754,A10BK02,placebo,canagliflozin,5813,17/10/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",74,0,0
+NCT01991795,B01AC24,placebo,ticagrelor,19000,18/11/2013,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",272,0,0
+NCT02049814,A10BF03,acarbose,voglibose,494,28/01/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",56,0,0
+NCT02058160,A10BJ03,NA,lixisenatide,736,06/02/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",45,0,0
+NCT02104804,A10BH03,placebo,saxagliptin,953,02/04/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",35,0,0
+NCT02152371,A10BJ05,placebo,dulaglutide,300,28/05/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",28,0,0
+NCT02229227,A10BJ04,insulin glargine,albiglutide,814,28/08/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",113,0,0
+NCT02243176,A10BF01,saxagliptin,acarbose,689,16/09/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",29,0,0
+NCT02284893,A10BH03,sitagliptin,saxagliptin,861,04/11/2014,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",50,0,0
+NCT02413398,A10BK01,placebo,dapagliflozin,323,07/04/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",11,0,0
+NCT02420262,A10AE06,insulin glargine,insulin degludec,506,08/04/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",7,0,0
+NCT02453685,A10AE04,NA,insulin glargine,335,21/05/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",31,0,0
+NCT02465515,A10BJ04,placebo,albiglutide,9400,04/06/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",265,0,0
+NCT02501161,A10AE06,insulin glargine,insulin degludec,1000,15/07/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",47,0,0
+NCT02532855,A10BK01,sitagliptin,dapagliflozin,614,25/08/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",19,0,0
+NCT02551874,A10BK01,saxagliptin,dapagliflozin,651,15/09/2015,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",67,0,0
+NCT02730377,A10BJ02,alpha-glucosidase inhibitors,liraglutide,1994,23/03/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",1183,0,0
+NCT02738151,A10AE06,insulin glargine,insulin degludec,929,31/03/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",54,0,0
+NCT02738879,A10BH01,placebo,sitagliptin,700,11/04/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",38,0,0
+NCT02762578,A10AE06,NA,insulin degludec,543,03/05/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",25,0,0
+NCT02791490,A10BH01,placebo,sitagliptin,380,01/06/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",11,0,0
+NCT02836873,A10BK_1,placebo,bexagliflozin,300,14/07/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",16,0,0
+NCT02863328,A10BJ_2,empagliflozin,semaglutide,816,08/08/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",34,0,0
+NCT02906917,A10AE06,insulin glargine,insulin degludec,754,15/09/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",17,0,0
+NCT02963922,A10BJ02,placebo,liraglutide,400,10/11/2016,"Diabetes Mellitus, Type 2",2,2,"Diabetes Mellitus, Type 2",62,0,0
+NCT01075282,A10BJ05,insulin glargine,dulaglutide,810,23/02/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",87,0,0
+NCT01095653,A10BK01,NA,dapagliflozin,1179,26/03/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",50,0,0
+NCT01095666,A10BK01,NA,dapagliflozin,1484,26/03/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",35,0,0
+NCT01106625,A10BK02,placebo,canagliflozin,469,01/04/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",88,0,0
+NCT01106651,A10BK02,placebo,canagliflozin,716,01/04/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",194,0,0
+NCT01106690,A10BK02,placebo,canagliflozin,344,01/04/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",46,0,0
+NCT01126580,A10BJ05,metformin,dulaglutide,807,18/05/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",156,0,0
+NCT01131676,A10BK03,NA,empagliflozin,7064,26/05/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",211,0,0
+NCT01164501,A10BK03,NA,empagliflozin,741,15/07/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",95,0,0
+NCT01191268,A10BJ05,insulin glargine,dulaglutide,884,27/08/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",165,0,0
+NCT01210001,A10BK03,NA,empagliflozin,499,27/09/2010,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",42,0,0
+NCT01306214,A10BK03,NA,empagliflozin,566,28/02/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",78,0,0
+NCT01318070,A10BH04,NA,alogliptin,339,16/03/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",11,0,0
+NCT01318083,A10BH04,NA,alogliptin,312,16/03/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",13,0,0
+NCT01336023,A10AE06,NA,insulin degludec,1663,13/04/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",219,0,0
+NCT01381900,A10BK02,placebo,canagliflozin,678,23/06/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",30,0,0
+NCT01388361,A10BJ02,NA,liraglutide,413,04/07/2011,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",38,0,0
+NCT01519674,A10BH01,NA,sitagliptin,582,24/01/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",46,0,0
+NCT01545388,A10BA02,NA,metformin,337,01/03/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",27,0,0
+NCT01558271,A10BJ05,liraglutide,dulaglutide,492,12/03/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",46,0,0
+NCT01606007,A10BK01,placebo,dapagliflozin,1282,23/05/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",44,0,0
+NCT01621178,A10BJ05,insulin glargine,dulaglutide,577,14/06/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",97,0,0
+NCT01644500,A10BJ05,glimepiride,dulaglutide,737,17/07/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",61,0,0
+NCT01648582,A10BJ05,insulin glargine,dulaglutide,774,16/07/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",102,0,0
+NCT01652729,A10BH01,placebo,sitagliptin,365,26/07/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",54,0,0
+NCT01703221,A10BH01,NA,sitagliptin,414,05/10/2012,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",14,0,0
+NCT01768559,A10BJ03,insulin glulisine,lixisenatide,894,11/01/2013,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",60,0,0
+NCT01958671,A10BK_2,metformin,ertugliflozin,461,07/10/2013,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",75,0,0
+NCT01986855,A10BK_2,NA,ertugliflozin,468,12/11/2013,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",38,0,0
+NCT01986881,A10BK_2,placebo,ertugliflozin,8000,12/11/2013,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",1034,0,0
+NCT01999218,A10BK_2,glimepiride,ertugliflozin,1326,25/11/2013,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",320,0,0
+NCT02033889,A10BK_2,NA,ertugliflozin,621,09/01/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",79,0,0
+NCT02036515,A10BK_2,NA,ertugliflozin,464,13/01/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",31,0,0
+NCT02058147,A10BJ03,NA,lixisenatide,1170,06/02/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",85,0,0
+NCT02068443,A10BA02,NA,metformin,374,19/02/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",16,0,0
+NCT02128932,A10BJ_2,insulin glargine,semaglutide,1089,24/04/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",64,0,0
+NCT02207374,A10BJ_2,dpp-4 inhibitor,semaglutide,601,01/08/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",22,0,0
+NCT02254291,A10BJ_2,sitagliptin,semaglutide,308,29/09/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",5,0,0
+NCT02273050,A10BH03,placebo,saxagliptin,1136,22/10/2014,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",75,0,0
+NCT02471404,A10BH03,NA,saxagliptin,1359,11/06/2015,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",72,0,0
+NCT02597049,A10BJ05,placebo,dulaglutide,424,03/11/2015,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",15,0,0
+NCT02607306,A10AE06,NA,insulin degludec,807,16/11/2015,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",54,0,0
+NCT02630706,A10BK_2,NA,ertugliflozin,495,11/12/2015,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",26,0,0
+NCT02681094,A10BK01,placebo,dapagliflozin,906,10/02/2016,"Diabetes Mellitus, Type 2",3,3,"Diabetes Mellitus, Type 2",135,0,0
+NCT01064687,A10BJ05,exenatide,dulaglutide,978,05/02/2010,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",118,0,0
+NCT01106677,A10BK02,placebo,canagliflozin,1284,01/04/2010,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",165,0,0
+NCT01217892,A10BK01,placebo,dapagliflozin,400,07/10/2010,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",30,0,0
+NCT01720446,A10BJ_2,placebo,semaglutide,3297,29/10/2012,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",65,0,0
+NCT01733758,A10BJ04,NA,albiglutide,494,21/11/2012,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",50,0,0
+NCT02607865,A10BJ_2,sitagliptin,semaglutide,1860,10/11/2015,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",106,0,0
+NCT02648204,A10BJ_2,dulaglutide,semaglutide,1201,05/01/2016,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",72,0,0
+NCT02906930,A10BJ_2,placebo,semaglutide,704,15/09/2016,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",40,0,0
+NCT03015220,A10BJ_2,dulaglutide,semaglutide,455,06/01/2017,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",10,0,0
+NCT03021187,A10BJ_2,placebo,semaglutide,720,12/01/2017,"Diabetes Mellitus, Type 2",4,4,"Diabetes Mellitus, Type 2",34,0,0
+NCT01177813,A10BK03,NA,empagliflozin,986,29/07/2010,"Diabetes Mellitus, Type 2",5,5,"Diabetes Mellitus, Type 2",105,0,0
+NCT01777282,A10BF,sulfonylurea,alpha-glucosidase inhibitor,374,24/01/2013,"Diabetes Mellitus, Type 2",5,5,"Diabetes Mellitus, Type 2",30,0,0
+NCT01809327,A10BK02,NA,canagliflozin,1186,08/03/2013,"Diabetes Mellitus, Type 2",5,5,"Diabetes Mellitus, Type 2",117,0,0
+NCT02099110,A10BK_2,NA,ertugliflozin,1233,25/03/2014,"Diabetes Mellitus, Type 2",5,5,"Diabetes Mellitus, Type 2",132,0,0
+NCT01076088,A10BH01,NA,sitagliptin,744,24/02/2010,"Diabetes Mellitus, Type 2",6,6,"Diabetes Mellitus, Type 2",100,0,0
+NCT01289119,A10BH04,placebo,alogliptin,506,01/02/2011,"Diabetes Mellitus, Type 2",6,6,"Diabetes Mellitus, Type 2",42,0,0
+NCT01183013,A10BH05,NA,linagliptin,936,16/08/2010,"Diabetes Mellitus, Type 2",7,7,"Diabetes Mellitus, Type 2",273,0,0
+NCT01204294,A10BH05,metformin,linagliptin,574,16/09/2010,"Diabetes Mellitus, Type 2",7,7,"Diabetes Mellitus, Type 2",36,0,0
+NCT01719003,A10BK03,NA,empagliflozin,1413,30/10/2012,"Diabetes Mellitus, Type 2",9,9,"Diabetes Mellitus, Type 2",129,0,0
+NCT02065791,A10BK02,placebo,canagliflozin,4464,17/02/2014,"Diabetes Mellitus, Type 2, Diabetic Nephropathies",2,2,"Diabetes Mellitus, Type 2",40,0,0
+NCT02739984,C10AX13,placebo,evolocumab,424,12/04/2016,"Diabetes Mellitus, Type 2, Hypercholesterolemia",2,2,"Diabetes Mellitus, Type 2",7,0,0
+NCT01195662,A10BK01,placebo,dapagliflozin,582,03/09/2010,"Diabetes Mellitus, Type 2, Hypertension",3,2,"Diabetes Mellitus, Type 2",50,1,1
+NCT01370005,A10BK03,NA,empagliflozin,825,08/06/2011,"Diabetes Mellitus, Type 2, Hypertension",3,3,"Diabetes Mellitus, Type 2",38,0,0
+NCT01137474,A10BK01,placebo,dapagliflozin,2996,03/06/2010,"Diabetes Mellitus, Type 2, Hypertension",4,4,"Diabetes Mellitus, Type 2",64,0,0
+NCT01717300,C10AX_1,NA,anacetrapib,459,26/10/2012,Hypercholesterolemia,Not reported to CTG,NA,Dyslipidaemia,NA,NA,3
+NCT01860729,C10AX_1,placebo,anacetrapib,589,20/05/2013,Hypercholesterolemia,Not reported to CTG,NA,Dyslipidaemia,NA,NA,3
+NCT02205606,C10AA07,hgp0816,rosuvastatin,412,30/07/2014,Hypercholesterolemia,Not reported to CTG,NA,Dyslipidaemia,NA,NA,3
+NCT02390375,C10AA07,NA,rosuvastatin,348,11/03/2015,Hypercholesterolemia,Not reported to CTG,NA,Dyslipidaemia,NA,NA,2
+NCT02749994,C10AX09,NA,ezetimibe,396,19/04/2016,Hypercholesterolemia,Not reported to CTG,NA,Dyslipidaemia,NA,NA,3
+NCT01475825,C10AX11,placebo,mipomersen sodium,310,17/11/2011,Hypercholesterolemia,4,6,Dyslipidaemia,193,1,1
+NCT01926782,C10AX14,NA,alirocumab,803,19/08/2013,Hypercholesterolemia,6,3,Dyslipidaemia,150,1,1
+NCT01507831,C10AX14,placebo,alirocumab,2341,06/01/2012,Hypercholesterolemia,2,2,Dyslipidaemia,633,0,0
+NCT01516879,C10AX13,placebo,evolocumab,905,18/01/2012,Hypercholesterolemia,2,2,Dyslipidaemia,50,0,0
+NCT01524289,C10AX_1,placebo,anacetrapib,306,30/01/2012,Hypercholesterolemia,2,2,Dyslipidaemia,44,0,0
+NCT01623115,C10AX14,placebo,alirocumab,486,15/06/2012,Hypercholesterolemia,2,2,Dyslipidaemia,110,0,0
+NCT01644175,C10AX14,placebo,alirocumab,316,16/07/2012,Hypercholesterolemia,2,2,Dyslipidaemia,85,0,0
+NCT01644188,C10AX14,ezetimibe,alirocumab,720,16/07/2012,Hypercholesterolemia,2,2,Dyslipidaemia,197,0,0
+NCT01813422,C10AX13,placebo,evolocumab,970,15/03/2013,Hypercholesterolemia,2,2,Dyslipidaemia,36,0,0
+NCT02585778,C10AX14,placebo,alirocumab,517,22/10/2015,Hypercholesterolemia,2,2,Dyslipidaemia,48,0,0
+NCT01709513,C10AX14,atorvastatin,alirocumab,314,08/10/2012,Hypercholesterolemia,3,3,Dyslipidaemia,94,0,0
+NCT01763918,C10AX13,placebo,evolocumab,331,07/01/2013,Hypercholesterolemia,4,4,Dyslipidaemia,19,0,0
+NCT02550288,C10AX09,NA,ezetimibe,309,14/09/2015,Hypercholesterolemia,5,5,Dyslipidaemia,12,0,0
+NCT02741245,C10AA07,NA,rosuvastatin,321,13/04/2016,Hypercholesterolemia,5,5,Dyslipidaemia,7,0,0
+NCT01730053,C10AX14,NA,alirocumab,305,09/11/2012,Hypercholesterolemia,6,6,Dyslipidaemia,60,0,0
+NCT01730040,C10AX14,NA,alirocumab,355,09/11/2012,Hypercholesterolemia,7,7,Dyslipidaemia,69,0,0
+NCT01154036,C10AX09,NA,ezetimibe,1547,29/06/2010,Hypercholesterolemia,8,8,Dyslipidaemia,87,0,0
+NCT01763866,C10AX13,placebo,evolocumab,2067,07/01/2013,Hypercholesterolemia,24,24,Dyslipidaemia,73,0,0
+NCT01047501,C10AX06,NA,omega-3-triglycerides incl. other esters and acids,702,11/01/2010,Hyperlipidemias,Not reported to CTG,NA,Dyslipidaemia,NA,NA,2
+NCT01242527,C10AX06,placebo,omega-3-triglycerides incl. other esters and acids,399,15/11/2010,Hyperlipidemias,Not reported to CTG,NA,Dyslipidaemia,35,NA,1
+NCT01492361,C10AX06,placebo,omega-3-triglycerides incl. other esters and acids,8000,13/12/2011,Hyperlipidemias,Not reported to CTG,NA,Dyslipidaemia,NA,NA,3
+NCT02009865,C10AX06,not a drug,omega-3-triglycerides incl. other esters and acids,379,09/12/2013,Hyperlipidemias,2,2,Dyslipidaemia,6,0,0
+NCT01408303,C10AX06,NA,omega-3-triglycerides incl. other esters and acids,646,01/08/2011,Hyperlipidemias,3,3,Dyslipidaemia,24,0,0
+NCT02463071,C10AX06,NA,omega-3-triglycerides incl. other esters and acids,886,03/06/2015,Hyperlipidemias,3,3,Dyslipidaemia,34,0,0
+NCT01498822,N03AX14,oxcarbazepine,levetiracetam,353,21/12/2011,Epilepsy,2,2,Epilepsy,110,0,0
+NCT01284556,N03AA02,placebo,phenobarbital,314,20/01/2011,Seizures,Not reported to CTG,NA,Epilepsy,NA,NA,2
+NCT01963208,N03AA_1,placebo,ganaxolone,405,11/10/2013,Seizures,Not reported to CTG,NA,Epilepsy,NA,NA,2
+NCT01618695,N03AX22,placebo,perampanel,710,11/06/2012,Seizures,4,2,Epilepsy,111,1,1
+NCT01228747,N03AX14,placebo,levetiracetam,361,22/10/2010,Seizures,2,2,Epilepsy,110,0,0
+NCT01229735,N03AX14,topiramate,levetiracetam,343,26/10/2010,Seizures,2,2,Epilepsy,132,0,0
+NCT01954121,N03AX14,carbamazepine,levetiracetam,436,26/09/2013,Seizures,2,2,Epilepsy,218,0,0
+NCT01261325,N03AX23,placebo,brivaracetam,768,09/12/2010,Seizures,3,3,Epilepsy,72,0,0
+NCT01262677,N03AX16,placebo,pregabalin,334,16/12/2010,Seizures,3,3,Epilepsy,36,0,0
+NCT01710657,N03AX18,placebo,lacosamide,548,17/10/2012,Seizures,3,3,Epilepsy,62,0,0
+NCT01356602,L04AC08,triamcinolone,canakinumab,397,16/05/2011,"Arthritis, Gouty",3,3,Gout,48,0,0
+NCT02082769,M04AA01,febuxostat,allopurinol,504,06/03/2014,Gout,Not reported to CTG,NA,Gout,87,NA,1
+NCT01994226,M04AC01,naproxen,colchicine,399,19/11/2013,Gout,2,2,Gout,40,0,0
+NCT01493531,M04AB05,placebo,lesinurad,610,13/12/2011,Gout,3,3,Gout,139,0,0
+NCT01510158,M04AB05,placebo,lesinurad,607,11/01/2012,Gout,3,3,Gout,154,0,0
+NCT01510769,M04AB05,placebo,lesinurad,330,12/01/2012,Gout,3,3,Gout,74,0,0
+NCT02139046,M04AA03,placebo,febuxostat,1790,13/05/2014,Gout,5,5,Gout,300,0,0
+NCT01661634,C01DX_2,placebo,ularitide,2157,31/07/2012,Heart Failure,Not reported to CTG,NA,Heart failure,NA,NA,3
+NCT01822808,C02DB02,isosorbide dinitrate,hydralazine,500,25/03/2013,Heart Failure,Not reported to CTG,NA,Heart failure,NA,NA,3
+NCT01870778,C01DX21,placebo,serelaxin,6566,03/06/2013,Heart Failure,2,2,Heart failure,17,0,0
+NCT02007720,C01DX21,placebo,serelaxin,873,20/11/2013,Heart Failure,2,2,Heart failure,154,0,0
+NCT02064868,C01DX21,NA,serelaxin,2653,14/02/2014,Heart Failure,2,2,Heart failure,47,0,0
+NCT02441218,C01EB17,placebo,ivabradine,6505,05/05/2015,Heart Failure,2,2,Heart failure,1190,0,0
+NCT01071122,C08CA05,NA,nifedipine,365,18/02/2010,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT01075698,C09CA07,not a drug,telmisartan,1228,24/02/2010,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT01101009,C09CA08,perindopril,olmesartan,486,07/04/2010,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT01508026,C07AB12,NA,nebivolol,4161,09/01/2012,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT01518855,C08CA05,amlodipine,nifedipine,514,24/01/2012,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT01541943,C09CA01,NA,losartan,356,24/02/2012,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT01838850,C03AA03,NA,hydrochlorothiazide,344,22/04/2013,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT01928628,C09CA03,NA,valsartan,449,21/08/2013,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT02072330,C09CA09,NA,azilsartan,353,24/02/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02172586,C03AA03,NA,hydrochlorothiazide,363,20/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02175355,C09CA07,placebo,telmisartan,1039,25/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02177396,C09CA07,valsartan,telmisartan,426,26/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02177409,C09CA07,amlodipine,telmisartan,431,26/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02177435,C03AA03,NA,hydrochlorothiazide,491,26/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02177461,C02AC01,NA,clonidine,374,26/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02177500,C03AA03,NA,hydrochlorothiazide,327,26/06/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02183701,C09CA07,losartan,telmisartan,715,07/07/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02200640,C09CA07,losartan,telmisartan,333,24/07/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02200653,C09CA07,losartan,telmisartan,387,24/07/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02242318,C09CA07,NA,telmisartan,440,16/09/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT02269176,C09CA07,losartan,telmisartan,330,20/10/2014,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,2
+NCT02495324,C09CA10,valsartan,fimasartan,369,07/07/2015,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT02738632,C03AA03,placebo,hydrochlorothiazide,300,11/04/2016,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT02890173,C03DA_1,eplerenone,cs-3150,1001,29/08/2016,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT02916602,C03BA04,hcp0605,chlorthalidone,340,26/09/2016,Hypertension,Not reported to CTG,NA,Hypertension,NA,NA,3
+NCT01057251,C07AB12,placebo,nebivolol,433,26/01/2010,Hypertension,2,2,Hypertension,57,0,0
+NCT01167153,C08CA05,valsartan,nifedipine,564,20/07/2010,Hypertension,2,2,Hypertension,51,0,0
+NCT01277822,C09CA01,NA,losartan,334,13/01/2011,Hypertension,2,2,Hypertension,26,0,0
+NCT01302691,C03AA03,NA,hydrochlorothiazide,327,22/02/2011,Hypertension,2,2,Hypertension,16,0,0
+NCT01615198,C09CA08,valsartan and sacubitril,olmesartan,588,06/06/2012,Hypertension,2,2,Hypertension,43,0,0
+NCT01876368,C09CA08,valsartan and sacubitril,olmesartan,376,09/06/2013,Hypertension,2,2,Hypertension,22,0,0
+NCT01975246,C03AA03,placebo,hydrochlorothiazide,309,29/10/2013,Hypertension,2,2,Hypertension,6,0,0
+NCT01556997,C09AA04,NA,perindopril,837,15/03/2012,Hypertension,3,3,Hypertension,86,0,0
+NCT01599104,C09CA08,valsartan and sacubitril,olmesartan,1161,13/05/2012,Hypertension,3,3,Hypertension,56,0,0
+NCT01785472,C09CA08,NA,olmesartan,1438,05/02/2013,Hypertension,3,3,Hypertension,65,0,0
+NCT02203916,C09CA09,placebo,azilsartan,328,28/07/2014,Hypertension,3,3,Hypertension,29,0,0
+NCT01042392,C09AA05,NA,ramipril,506,01/01/2010,Hypertension,4,4,Hypertension,18,0,0
+NCT01218100,C07AB12,NA,nebivolol,664,07/10/2010,Hypertension,4,4,Hypertension,110,0,0
+NCT01237223,C09XA02,NA,aliskiren,1342,29/10/2010,Hypertension,6,6,Hypertension,77,0,0
+NCT01106014,B01AC27,placebo,selexipag,1156,02/04/2010,"Hypertension, Hypertension, Pulmonary",2,2,"Hypertension, Pulmonary",615,0,0
+NCT01178073,G04BE08,NA,tadalafil,610,15/07/2010,"Hypertension, Hypertension, Pulmonary",3,3,"Hypertension, Pulmonary",152,0,0
+NCT01458951,L04AA29,placebo,tofacitinib,547,21/10/2011,"Colitis, Ulcerative",3,2,Inflammatory bowel disease,48,1,1
+NCT01465763,L04AA29,placebo,tofacitinib,614,21/10/2011,"Colitis, Ulcerative",3,2,Inflammatory bowel disease,36,1,1
+NCT01532648,R03BA02,placebo,budesonide,509,13/12/2011,"Colitis, Ulcerative",2,2,Inflammatory bowel disease,53,0,0
+NCT01458574,L04AA29,placebo,tofacitinib,593,21/10/2011,"Colitis, Ulcerative",3,3,Inflammatory bowel disease,303,0,0
+NCT01369355,L04AC05,placebo,ustekinumab,1282,07/06/2011,Crohn Disease,9,6,Inflammatory bowel disease,547,1,1
+NCT01224171,L04AA33,placebo,vedolizumab,416,18/10/2010,Crohn Disease,2,2,Inflammatory bowel disease,28,0,0
+NCT01369329,L04AC05,placebo,ustekinumab,769,07/06/2011,Crohn Disease,3,3,Inflammatory bowel disease,37,0,0
+NCT01369342,L04AC05,placebo,ustekinumab,640,07/06/2011,Crohn Disease,3,3,Inflammatory bowel disease,25,0,0
+NCT02483169,C10AX02,NA,probucol,800,24/06/2015,Brain Ischemia,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,2
+NCT01174693,B01AC18,clopidogrel,triflusal,795,03/08/2010,Cerebral Infarction,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,2
+NCT01949948,B01AD02,tenecteplase,alteplase,1050,21/09/2013,Cerebral Infarction,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,3
+NCT01994720,B01AC24,acetylsalicylic acid,ticagrelor,13307,18/11/2013,"Cerebral Infarction, Ischemic Attack, Transient",2,2,Ischaemic stroke/TIA,102,0,0
+NCT01188824,B01AC23,placebo,cilostazol,801,23/08/2010,"Cerebral Infarction, Peripheral Arterial Disease",Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,2
+NCT01364220,C10AA07,placebo,rosuvastatin,318,26/05/2011,Stroke,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,3
+NCT01525290,B01AD02,placebo,alteplase,501,30/01/2012,Stroke,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,3
+NCT01661322,B01AC04,standard care,clopidogrel,3096,23/07/2012,Stroke,Not reported to CTG,NA,Ischaemic stroke/TIA,NA,NA,2
+NCT02072226,B01AD02,acetylsalicylic acid,alteplase,313,24/02/2014,Stroke,2,2,Ischaemic stroke/TIA,25,0,0
+NCT02183220,B01AC06,NA,acetylsalicylic acid,417,04/07/2014,Migraine Disorders,Not reported to CTG,NA,Migraine,NA,NA,2
+NCT03006276,L01XX33,placebo,celecoxib,622,27/12/2016,Migraine Disorders,Not reported to CTG,NA,Migraine,NA,NA,2
+NCT03009019,L01XX33,placebo,celecoxib,631,27/12/2016,Migraine Disorders,Not reported to CTG,NA,Migraine,NA,NA,3
+NCT01216072,L04AA27,not a drug,fingolimod,1053,07/09/2010,Multiple Sclerosis,2,2,Multiple sclerosis,110,0,0
+NCT01623596,L04AA27,not a drug,fingolimod,881,18/06/2012,Multiple Sclerosis,2,2,Multiple sclerosis,162,0,0
+NCT01633112,L04AA27,glatiramer acetate,fingolimod,1064,29/06/2012,Multiple Sclerosis,3,3,Multiple sclerosis,205,0,0
+NCT01767519,G04BD08,NA,solifenacin,356,11/01/2013,"Enuresis, Urinary Bladder, Overactive, Urinary Incontinence",3,3,"Urinary Bladder, Overactive",32,0,0
+NCT01371994,G04BD08,placebo,solifenacin,640,10/06/2011,"Enuresis, Urinary Incontinence",2,2,"Urinary Bladder, Incontinence",99,0,0
+NCT01243177,N03AX18,carbamazepine,lacosamide,888,16/11/2010,Epilepsy,2,2,Epilepsy,356,0,0
+NCT01459367,A02BX_1,lansoprazole,vonoprazan fumarate,607,24/10/2011,Esophagitis,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,2
+NCT02388724,A02BX_1,lansoprazole,vonoprazan,480,09/03/2015,Esophagitis,2,2,"Oesophagus, Reflux and inflammation",25,0,0
+NCT01499368,A02BA08,omeprazole,lafutidine,495,21/12/2011,Esophagitis,3,3,"Oesophagus, Reflux and inflammation",66,0,0
+NCT01132638,A02BC02,esomeprazole,pantoprazole,713,21/05/2010,Gastroesophageal Reflux,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,2
+NCT01474369,A02BX_1,placebo,vonoprazan fumarate,827,24/10/2011,Gastroesophageal Reflux,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,3
+NCT01869491,A02BX13,placebo,sodium alginate,1107,31/05/2013,Gastroesophageal Reflux,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,3
+NCT02623062,A02BX13,placebo,sodium alginate,644,30/11/2015,Gastroesophageal Reflux,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,2
+NCT02860624,A02BC_1,esomeprazole,ilaprazole,550,26/07/2016,Gastroesophageal Reflux,Not reported to CTG,NA,"Oesophagus, Reflux and inflammation",NA,NA,3
+NCT01063920,M01AE_1,naproxen,naproxen etemesil,534,29/01/2010,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT01066676,M01AE14,ibuprofen,dexibuprofen,482,09/02/2010,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT01425853,L01XX33,not a drug,celecoxib,606,25/08/2011,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,141,NA,1
+NCT01456611,M01AB05,placebo,diclofenac,749,18/10/2011,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT01576419,L01XX33,not a drug,celecoxib,309,04/04/2012,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT02022930,C05AA12,not a drug,triamcinolone,510,23/12/2013,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT02079727,L01XX33,placebo,celecoxib,604,28/02/2014,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT02178137,M01AX21,placebo,diacerein,322,27/06/2014,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT02183064,M01AC06,nsaid,meloxicam,1309,04/07/2014,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT02473198,M01AB15,NA,acular,312,05/01/2015,Osteoarthritis,Not reported to CTG,NA,Osteoarthritis,NA,NA,2
+NCT01461369,M01AB05,placebo,diclofenac,305,26/10/2011,Osteoarthritis,3,3,Osteoarthritis,47,0,0
+NCT01787188,M01AC06,placebo,meloxicam,403,06/02/2013,Osteoarthritis,3,3,Osteoarthritis,53,0,0
+NCT02357459,C05AA12,not a drug,triamcinolone,486,03/02/2015,Osteoarthritis,3,3,Osteoarthritis,43,0,0
+NCT01089725,L04AA_3,NA,tanezumab,385,11/03/2010,Osteoarthritis,5,5,Osteoarthritis,354,0,0
+NCT01343004,H05AA_1,placebo,abaloparatide,2463,26/04/2011,Osteoporosis,Not reported to CTG,NA,Osteoporosis,562,NA,1
+NCT01512446,M05BA04,placebo,alendronate,436,11/01/2012,Osteoporosis,Not reported to CTG,NA,Osteoporosis,NA,NA,2
+NCT01522521,M05BA08,placebo,zoledronic acid,600,27/01/2012,Osteoporosis,Not reported to CTG,NA,Osteoporosis,NA,NA,3
+NCT01709110,M05BA07,teriparatide,risedronate,1327,16/10/2012,Osteoporosis,2,2,Osteoporosis,353,0,0
+NCT01732770,M05BX04,zoledronic acid,denosumab,643,20/11/2012,Osteoporosis,2,2,Osteoporosis,18,0,0
+NCT02014467,M05BX04,placebo,denosumab,486,12/12/2013,Osteoporosis,2,2,Osteoporosis,32,0,0
+NCT01187966,N04BD03,placebo,safinamide,669,31/05/2010,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),NA,NA,2
+NCT01227655,N04BX_1,placebo,opicapone,427,22/10/2010,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),41,NA,1
+NCT01283594,C01EB_3,placebo,tozadenant,420,24/01/2011,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),NA,NA,3
+NCT01286935,N04BD03,placebo,safinamide,544,23/08/2010,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),NA,NA,2
+NCT01568073,N04BX_1,placebo,opicapone,600,29/03/2012,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),58,NA,1
+NCT02172573,N04BC01,placebo,bromocriptine,315,20/06/2014,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),NA,NA,2
+NCT02352363,N04BA01,not a drug,levodopa,408,26/01/2015,Parkinson Disease,Not reported to CTG,NA,Parkinson's disease (all),10,NA,1
+NCT01494532,N04BC04,placebo,ropinirole,352,01/12/2011,Parkinson Disease,6,2,Parkinson's disease (all),58,1,1
+NCT01049984,N04BD02,placebo,rasagiline,328,13/01/2010,Parkinson Disease,2,2,Parkinson's disease (all),38,0,0
+NCT01154166,N04BC04,placebo,ropinirole,347,29/06/2010,Parkinson Disease,2,2,Parkinson's disease (all),46,0,0
+NCT01300819,N04BC09,placebo,rotigotine,349,18/02/2011,Parkinson Disease,2,2,Parkinson's disease (all),66,0,0
+NCT01479530,N04BD02,placebo,rasagiline,321,22/11/2011,Parkinson Disease,2,2,Parkinson's disease (all),22,0,0
+NCT01523301,N04BC09,placebo,rotigotine,380,27/01/2012,Parkinson Disease,2,2,Parkinson's disease (all),67,0,0
+NCT01646255,N04BC09,placebo,rotigotine,346,18/07/2012,Parkinson Disease,2,2,Parkinson's disease (all),35,0,0
+NCT02168842,C08CA03,placebo,isradipine,336,18/06/2014,Parkinson Disease,2,2,Parkinson's disease (all),16,0,0
+NCT01628926,N04BC09,placebo,rotigotine,420,24/06/2012,Parkinson Disease,3,3,Parkinson's disease (all),66,0,0
+NCT02337738,N04BD02,placebo,rasagiline,404,09/01/2015,Parkinson Disease,3,3,Parkinson's disease (all),78,0,0
+NCT01155466,N04BD02,NA,rasagiline,778,30/06/2010,Parkinson Disease,5,5,Parkinson's disease (all),115,0,0
+NCT01732822,B01AC24,clopidogrel,ticagrelor,13885,20/11/2012,Peripheral Arterial Disease,2,2,Peripheral Arterial Disease,236,0,0
+NCT01776424,B01AF01,placebo,rivaroxaban,27395,24/01/2013,Peripheral Arterial Disease,3,3,Peripheral Arterial Disease,63,0,0
+NCT01263925,C04AD03,alprostadil,pentoxifylline,561,17/12/2010,"Intermittent Claudication, Peripheral Arterial Disease",2,2,Peripheral Arterial Disease,103,0,0
+NCT01188928,C05AA05,NA,betamethasone,1152,25/08/2010,Psoriasis,Not reported to CTG,NA,Psoriasis,132,NA,1
+NCT01422434,C05AA05,NA,betamethasone,676,15/08/2011,Psoriasis,Not reported to CTG,NA,Psoriasis,22,NA,1
+NCT01708603,L04AC12,ustekinumab,brodalumab,1831,12/09/2012,Psoriasis,Not reported to CTG,NA,Psoriasis,55,NA,1
+NCT01708629,L04AC12,ustekinumab,brodalumab,1881,21/09/2012,Psoriasis,Not reported to CTG,NA,Psoriasis,65,NA,1
+NCT02132936,R03BA01,NA,beclomethasone,463,06/05/2014,Psoriasis,Not reported to CTG,NA,Psoriasis,47,NA,1
+NCT01722331,L04AC_d,placebo,tildrakizumab,772,02/11/2012,Psoriasis,7,3,Psoriasis,150,1,1
+NCT01729754,L04AC_d,NA,tildrakizumab,1090,13/11/2012,Psoriasis,10,4,Psoriasis,64,1,1
+NCT02346240,L04AB05,placebo,certolizumab pegol,559,20/01/2015,Psoriasis,24,4,Psoriasis,26,1,1
+NCT02203032,L04AC_8,ustekinumab,guselkumab,872,25/07/2014,Psoriasis,4,3,Psoriasis,106,1,1
+NCT02207231,L04AB04,NA,adalimumab,837,31/07/2014,Psoriasis,4,3,Psoriasis,24,1,1
+NCT01970488,L04AB04,not a drug,adalimumab,350,23/10/2013,Psoriasis,5,2,Psoriasis,24,1,1
+NCT02684357,L04AC_b,NA,risankizumab,500,16/02/2016,Psoriasis,6,3,Psoriasis,9,1,1
+NCT02684370,L04AC_b,NA,risankizumab,506,16/02/2016,Psoriasis,6,3,Psoriasis,10,1,1
+NCT02672852,L04AC_b,placebo,risankizumab,507,01/02/2016,Psoriasis,7,2,Psoriasis,7,1,1
+NCT02694523,L04AC_b,adalimumab,risankizumab,605,24/02/2016,Psoriasis,7,2,Psoriasis,20,1,1
+NCT02207244,L04AB04,NA,adalimumab,992,31/07/2014,Psoriasis,11,3,Psoriasis,44,1,1
+NCT01646177,L04AC_9,placebo,ixekizumab,1346,18/07/2012,Psoriasis,12,4,Psoriasis,71,1,1
+NCT01474512,L04AC_9,placebo,ixekizumab,1296,15/11/2011,Psoriasis,18,4,Psoriasis,455,1,1
+NCT01597245,L04AC_9,placebo,ixekizumab,1224,10/05/2012,Psoriasis,21,5,Psoriasis,548,1,1
+NCT01059773,L01BA01,NA,methotrexate,490,28/01/2010,Psoriasis,2,2,Psoriasis,44,0,0
+NCT01646073,L04AB04,placebo,adalimumab,425,18/07/2012,Psoriasis,2,2,Psoriasis,7,0,0
+NCT02074982,L04AC10,ustekinumab,secukinumab,676,27/02/2014,Psoriasis,2,2,Psoriasis,105,0,0
+NCT02561806,L04AC_9,ustekinumab,ixekizumab,300,25/09/2015,Psoriasis,2,2,Psoriasis,21,0,0
+NCT01241591,L04AA29,placebo,tofacitinib,1101,12/11/2010,Psoriasis,4,4,Psoriasis,81,0,0
+NCT01947491,C05AA05,not a drug,betamethasone,394,17/09/2013,Psoriasis,4,4,Psoriasis,21,0,0
+NCT01365455,L04AC10,NA,secukinumab,738,01/06/2011,Psoriasis,5,5,Psoriasis,77,0,0
+NCT01358578,L04AC10,NA,secukinumab,1306,20/05/2011,Psoriasis,6,6,Psoriasis,133,0,0
+NCT01087788,L04AB05,NA,certolizumab pegol,409,15/03/2010,"Arthritis, Psoriatic",3,7,Psoriatic arthropathy,41,1,1
+NCT01077362,L04AC05,NA,ustekinumab,312,25/02/2010,"Arthritis, Psoriatic",3,3,Psoriatic arthropathy,74,0,0
+NCT02294227,L04AC10,placebo,secukinumab,341,17/11/2014,"Arthritis, Psoriatic",3,3,Psoriatic arthropathy,69,0,0
+NCT02024646,L04AC12,placebo,brodalumab,484,27/12/2013,"Arthritis, Psoriatic, Psoriasis",Not reported to CTG,NA,Psoriatic arthropathy,85,NA,1
+NCT02029495,L04AC12,placebo,brodalumab,478,06/01/2014,"Arthritis, Psoriatic, Psoriasis",Not reported to CTG,NA,Psoriatic arthropathy,3,NA,1
+NCT01752634,L04AC10,placebo,secukinumab,397,23/10/2012,"Arthritis, Psoriatic, Psoriasis",6,4,Psoriatic arthropathy,24,1,1
+NCT01989468,L04AC10,placebo,secukinumab,414,07/11/2013,"Arthritis, Psoriatic, Psoriasis",5,3,Psoriatic arthropathy,127,1,1
+NCT02584855,L04AC_9,NA,ixekizumab,291,16/10/2015,"Arthritis, Psoriatic, Psoriasis",6,3,Psoriatic arthropathy,18,1,1
+NCT01212770,L04AA32,placebo,apremilast,505,29/09/2010,"Arthritis, Psoriatic, Psoriasis",9,4,Psoriatic arthropathy,232,1,1
+NCT01695239,L04AC_9,placebo,ixekizumab,417,25/09/2012,"Arthritis, Psoriatic, Psoriasis",14,4,Psoriatic arthropathy,36,1,1
+NCT02349295,L04AC_9,placebo,ixekizumab,363,10/10/2014,"Arthritis, Psoriatic, Psoriasis",14,3,Psoriatic arthropathy,49,1,1
+NCT01860976,L04AA24,placebo,abatacept,489,21/05/2013,"Arthritis, Psoriatic, Psoriasis",2,2,Psoriatic arthropathy,201,0,0
+NCT01392326,L04AC10,placebo,secukinumab,606,07/07/2011,"Arthritis, Psoriatic, Psoriasis",3,3,Psoriatic arthropathy,130,0,0
+NCT02376790,L01BA01,placebo,methotrexate,851,28/01/2015,"Arthritis, Psoriatic, Psoriasis",3,3,Psoriatic arthropathy,160,0,0
+NCT01882439,L04AA29,placebo,tofacitinib,395,18/06/2013,"Arthritis, Psoriatic, Psoriasis",4,4,Psoriatic arthropathy,49,0,0
+NCT01877668,L04AA29,placebo,tofacitinib,422,12/06/2013,"Arthritis, Psoriatic, Psoriasis",5,5,Psoriatic arthropathy,49,0,0
+NCT02157935,R03BA02,NA,budesonide,2026,05/06/2014,"Lung Diseases, Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",104,0,0
+NCT01313494,R03DX07,placebo,roflumilast,626,03/03/2011,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",117,NA,1
+NCT01353235,C05AA04,standard care,prednisolone,317,10/05/2011,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,3
+NCT01455129,R03BB04,placebo,tiotropium,841,21/09/2011,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,3
+NCT01488019,R03AC13,placebo,formoterol,1071,29/11/2011,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",551,NA,1
+NCT01911364,R03BB04,not a drug,tiotropium,3686,26/07/2013,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,3
+NCT01917331,R03BB06,NA,glycopyrronium bromide,1368,05/08/2013,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,3
+NCT01946620,R03AC13,not a drug,formoterol,1767,10/09/2013,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02172287,R03BB04,NA,tiotropium,623,20/06/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02173691,R03BB04,NA,tiotropium,584,20/06/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02173782,R03AC04,placebo,fenoterol,892,24/06/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02177253,R03AC02,placebo,salbutamol,1118,20/06/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02177344,R03BB01,placebo,ipratropium,646,24/06/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02194205,R03AC02,placebo,salbutamol,360,17/07/2014,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02467452,R03AC_2,beclomethasone,vilanterol,1479,20/05/2015,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,2
+NCT02579850,R03BB06,NA,glycopyrronium bromide,1532,12/05/2015,"Pulmonary Disease, Chronic Obstructive",Not reported to CTG,NA,"Pulmonary Disease, Chronic Obstructive",NA,NA,3
+NCT01323621,R03AC_2,salmeterol,vilanterol,512,17/03/2011,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",35,1,1
+NCT01323634,R03AC_2,salmeterol,vilanterol,519,17/03/2011,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",47,1,1
+NCT01342913,R03AC_2,salmeterol,vilanterol,528,14/04/2011,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",39,1,1
+NCT01706328,R03AC_2,salmeterol,vilanterol,828,11/10/2012,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",91,1,1
+NCT01772147,R03BB07,fluticasone,umeclidinium,608,17/01/2013,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",74,1,1
+NCT02105974,R03BA05,NA,fluticasone,1621,03/04/2014,"Pulmonary Disease, Chronic Obstructive",3,2,"Pulmonary Disease, Chronic Obstructive",100,1,1
+NCT01336608,R03AC_2,placebo,vilanterol,446,31/03/2011,"Pulmonary Disease, Chronic Obstructive",4,3,"Pulmonary Disease, Chronic Obstructive",98,1,1
+NCT02105948,L04AC06,placebo,mepolizumab,837,03/04/2014,"Pulmonary Disease, Chronic Obstructive",4,2,"Pulmonary Disease, Chronic Obstructive",102,1,1
+NCT01376245,R03AC_2,placebo,vilanterol,643,09/06/2011,"Pulmonary Disease, Chronic Obstructive",5,2,"Pulmonary Disease, Chronic Obstructive",106,1,1
+NCT01053988,R03AC_2,NA,vilanterol,1030,14/01/2010,"Pulmonary Disease, Chronic Obstructive",6,5,"Pulmonary Disease, Chronic Obstructive",307,1,1
+NCT01054885,R03AC_2,NA,vilanterol,1226,14/01/2010,"Pulmonary Disease, Chronic Obstructive",7,6,"Pulmonary Disease, Chronic Obstructive",300,1,1
+NCT01985334,R03AC18,NA,indacaterol,4351,04/11/2013,"Pulmonary Disease, Chronic Obstructive",8,4,"Pulmonary Disease, Chronic Obstructive",743,1,1
+NCT01061671,C10AA01,placebo,simvastatin,885,02/02/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",102,0,0
+NCT01068600,R03AC18,placebo,indacaterol,318,12/02/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",28,0,0
+NCT01069289,R03BA02,NA,budesonide,1293,11/02/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",98,0,0
+NCT01070784,R03AC13,not a drug,formoterol,328,11/02/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",38,0,0
+NCT01072448,R03AC18,placebo,indacaterol,323,19/02/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",49,0,0
+NCT01110200,R03BA05,NA,fluticasone,639,22/04/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",227,0,0
+NCT01120717,R03AC18,placebo,indacaterol,339,05/05/2010,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",56,0,0
+NCT01315249,R03BA05,NA,fluticasone,523,11/03/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",91,0,0
+NCT01329029,R03DX07,placebo,roflumilast,1945,30/03/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",461,0,0
+NCT01397890,R03AC13,NA,formoterol,793,27/06/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",54,0,0
+NCT01415518,R03AC13,NA,formoterol,581,08/08/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",47,0,0
+NCT01437540,R03BB05,NA,aclidinium bromide,590,19/09/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",192,0,0
+NCT01443845,R03DX07,placebo,roflumilast,2354,28/09/2011,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",591,0,0
+NCT01555138,R03AC18,salmeterol,indacaterol,581,13/03/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",85,0,0
+NCT01566604,R03BB06,placebo,glycopyrronium bromide,460,27/03/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",35,0,0
+NCT01574651,R03BB04,NA,tiotropium,934,06/04/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",113,0,0
+NCT01604278,R03BB06,placebo,glycopyrronium bromide,449,21/05/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",27,0,0
+NCT01613326,R03BB04,glycopyrronium bromide,tiotropium,657,17/02/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",27,0,0
+NCT01627327,R03BB04,fluticasone,tiotropium,623,21/06/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",58,0,0
+NCT01694771,R03AC19,placebo,olodaterol,1134,25/09/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",80,0,0
+NCT01696058,R03AC19,placebo,olodaterol,1137,26/09/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",74,0,0
+NCT01697696,R03BB06,R03AC Selective beta-2-adrenoreceptor agonists,glycopyrronium bromide,511,28/09/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",94,0,0
+NCT01709864,R03BB06,placebo,glycopyrronium bromide,440,16/10/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",18,0,0
+NCT01709903,R03BA05,NA,fluticasone,744,16/10/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",68,0,0
+NCT01715298,R03BB06,placebo,glycopyrronium bromide,432,24/10/2012,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",18,0,0
+NCT01777334,R03BB04,umeclidinium,tiotropium,905,24/01/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",116,0,0
+NCT01782326,R03AC18,glycopyrronium bromide,indacaterol,3362,30/01/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",598,0,0
+NCT01817764,R03AC_2,salmeterol,vilanterol,707,21/03/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",72,0,0
+NCT01822899,R03AC_2,salmeterol,vilanterol,717,28/03/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",42,0,0
+NCT01879410,R03AC_2,salmeterol,vilanterol,700,13/06/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",62,0,0
+NCT01899742,R03BB04,umeclidinium,tiotropium,497,11/07/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",33,0,0
+NCT01908140,R03BB05,salmeterol,aclidinium bromide,933,23/07/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",145,0,0
+NCT01966107,R03BB05,placebo,aclidinium bromide,3635,16/10/2013,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",1683,0,0
+NCT02152605,R03AC_2,umeclidinium,vilanterol,498,29/05/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",37,0,0
+NCT02207829,R03BB04,umeclidinium,tiotropium,1017,31/07/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",76,0,0
+NCT02236611,R03BB07,glycopyrronium bromide,umeclidinium,1036,08/09/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",60,0,0
+NCT02257385,R03AC_2,tiotropium,vilanterol,967,02/10/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",44,0,0
+NCT02276222,R03BB04,glycopyrronium bromide,tiotropium,1087,14/10/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",249,0,0
+NCT02296138,R03AC19,NA,olodaterol,7903,19/11/2014,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",1161,0,0
+NCT02345161,R03AC_2,umeclidinium,vilanterol,1811,19/01/2015,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",102,0,0
+NCT02375724,R03BB05,placebo,aclidinium bromide,300,26/02/2015,"Pulmonary Disease, Chronic Obstructive",2,2,"Pulmonary Disease, Chronic Obstructive",12,0,0
+NCT01045161,R03BB05,placebo,aclidinium bromide,544,07/01/2010,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",90,0,0
+NCT01120691,R03AC18,NA,indacaterol,2224,05/05/2010,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",557,0,0
+NCT01316887,R03AC_2,NA,vilanterol,563,15/03/2011,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",220,0,0
+NCT01462929,R03BB05,placebo,aclidinium bromide,414,28/10/2011,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",14,0,0
+NCT01513460,R03BB04,NA,tiotropium,773,16/01/2012,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",117,0,0
+NCT01525615,R03BB04,placebo,tiotropium,404,01/02/2012,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",27,0,0
+NCT01610037,R03BB04,placebo,tiotropium,1215,30/05/2012,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",79,0,0
+NCT01636713,R03AC_2,umeclidinium,vilanterol,581,05/07/2012,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",83,0,0
+NCT01682863,R03BB06,placebo,glycopyrronium bromide,614,07/09/2012,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",68,0,0
+NCT01772134,R03BB07,placebo,umeclidinium,617,17/01/2013,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",65,0,0
+NCT01957163,R03BB07,placebo,umeclidinium,619,04/10/2013,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",44,0,0
+NCT02105961,L04AC06,placebo,mepolizumab,674,03/04/2014,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",88,0,0
+NCT02119286,R03BB07,placebo,umeclidinium,620,17/04/2014,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",44,0,0
+NCT02138916,L04AC_5,placebo,benralizumab,1656,26/03/2014,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",176,0,0
+NCT02164513,R03BB07,NA,umeclidinium,10359,12/06/2014,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",1268,0,0
+NCT02347774,R03BB06,placebo,glycopyrronium bromide,641,21/01/2015,"Pulmonary Disease, Chronic Obstructive",3,3,"Pulmonary Disease, Chronic Obstructive",91,0,0
+NCT01313637,R03AC_2,NA,vilanterol,1493,10/03/2011,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",371,0,0
+NCT01313676,R03AC_2,NA,vilanterol,16568,03/02/2011,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",4445,0,0
+NCT01316900,R03AC_2,NA,vilanterol,846,15/03/2011,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",147,0,0
+NCT01316913,R03AC_2,NA,vilanterol,872,15/03/2011,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",199,0,0
+NCT01712516,R03AC18,NA,indacaterol,1001,19/10/2012,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",35,0,0
+NCT01727141,R03AC18,NA,indacaterol,1042,12/11/2012,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",32,0,0
+NCT01854658,R03BB06,not a drug,glycopyrronium bromide,1615,13/05/2013,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",307,0,0
+NCT01964352,R03AC19,NA,olodaterol,813,14/10/2013,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",51,0,0
+NCT01970878,R03BB04,not a drug,tiotropium,892,18/10/2013,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",114,0,0
+NCT02006732,R03AC19,NA,olodaterol,809,14/10/2013,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",45,0,0
+NCT02085161,R03AC19,NA,olodaterol,304,07/03/2014,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",37,0,0
+NCT02155660,L04AC_5,placebo,benralizumab,2255,20/05/2014,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",252,0,0
+NCT02343458,R03BB06,not a drug,glycopyrronium bromide,1759,06/01/2015,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",228,0,0
+NCT02796677,R03BB05,NA,aclidinium bromide,1595,31/05/2016,"Pulmonary Disease, Chronic Obstructive",4,4,"Pulmonary Disease, Chronic Obstructive",238,0,0
+NCT01202188,R03BB04,placebo,tiotropium,2144,13/09/2010,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",234,0,0
+NCT01431274,R03AC19,NA,olodaterol,2624,08/09/2011,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",362,0,0
+NCT01431287,R03AC19,NA,olodaterol,2539,08/09/2011,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",433,0,0
+NCT01437397,R03BB05,NA,aclidinium bromide,1692,19/09/2011,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",370,0,0
+NCT01462942,R03BB05,NA,aclidinium bromide,2443,26/10/2011,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",203,0,0
+NCT01572792,R03BB05,NA,aclidinium bromide,921,04/04/2012,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",370,0,0
+NCT01854645,R03BB04,not a drug,tiotropium,2103,13/05/2013,"Pulmonary Disease, Chronic Obstructive",5,5,"Pulmonary Disease, Chronic Obstructive",408,0,0
+NCT01089127,R03AC18,NA,indacaterol,552,17/03/2010,"Pulmonary Disease, Chronic Obstructive",6,6,"Pulmonary Disease, Chronic Obstructive",21,0,0
+NCT01335464,L01XE31,placebo,nintedanib,515,13/04/2011,Idiopathic Interstitial Pneumonias,2,2,Pulmonary fibrosis,81,0,0
+NCT01335477,L01XE31,placebo,nintedanib,551,13/04/2011,Idiopathic Interstitial Pneumonias,2,2,Pulmonary fibrosis,100,0,0
+NCT01366209,L04AX05,placebo,pirfenidone,555,02/06/2011,Idiopathic Interstitial Pneumonias,2,2,Pulmonary fibrosis,71,0,0
+NCT02788474,L01XE31,placebo,nintedanib,347,27/05/2016,Idiopathic Interstitial Pneumonias,2,2,Pulmonary fibrosis,14,0,0
+NCT01668667,N03AX12,placebo,gabapentin,501,14/06/2012,Restless Legs Syndrome,4,4,Restless legs syndrome,111,0,0
+NCT01969708,L01XC07,aflibercept,bevacizumab,362,22/10/2013,Retinal Vein Occlusion,Not reported to CTG,NA,Retinal vein occlusion,14,NA,1
+NCT01548001,L04AX_4,NA,iguratimod,910,05/03/2012,"Arthritis, Rheumatoid",Not reported to CTG,NA,Rheumatoid arthritis,NA,NA,2
+NCT01758198,L04AA24,placebo,abatacept,405,19/12/2012,"Arthritis, Rheumatoid",Not reported to CTG,NA,Rheumatoid arthritis,NA,NA,2
+NCT02000336,C05AA04,placebo,prednisolone,386,19/11/2013,"Arthritis, Rheumatoid",Not reported to CTG,NA,Rheumatoid arthritis,NA,NA,3
+NCT02551575,L01BA01,NA,methotrexate,468,26/08/2015,"Arthritis, Rheumatoid",Not reported to CTG,NA,Rheumatoid arthritis,NA,NA,3
+NCT02746380,L04AB04,not a drug,adalimumab,380,05/04/2016,"Arthritis, Rheumatoid",Not reported to CTG,NA,Rheumatoid arthritis,NA,NA,2
+NCT01500278,L04AB05,NA,certolizumab pegol,915,22/12/2011,"Arthritis, Rheumatoid",2,4,Rheumatoid arthritis,61,1,1
+NCT02706951,L04AA_4,methotrexate,upadacitinib tartrate,648,18/02/2016,"Arthritis, Rheumatoid",3,4,Rheumatoid arthritis,40,1,1
+NCT01606761,L04AC_c,placebo,sirukumab,878,24/05/2012,"Arthritis, Rheumatoid",5,3,Rheumatoid arthritis,144,1,1
+NCT01578850,L04AB01,placebo,etanercept,343,12/04/2012,"Arthritis, Rheumatoid",3,2,Rheumatoid arthritis,27,1,1
+NCT02675426,L04AA_4,placebo,upadacitinib tartrate,600,11/12/2015,"Arthritis, Rheumatoid",3,4,Rheumatoid arthritis,39,1,1
+NCT01232569,L04AC07,placebo,tocilizumab,656,01/11/2010,"Arthritis, Rheumatoid",4,2,Rheumatoid arthritis,37,1,1
+NCT01521923,L04AB05,placebo,certolizumab pegol,359,19/01/2012,"Arthritis, Rheumatoid",4,3,Rheumatoid arthritis,44,1,1
+NCT01855789,L01BA01,placebo,methotrexate,718,14/05/2013,"Arthritis, Rheumatoid",4,3,Rheumatoid arthritis,207,1,1
+NCT02305849,L04AA_2,placebo,peficitinib,519,01/12/2014,"Arthritis, Rheumatoid",4,3,Rheumatoid arthritis,92,1,1
+NCT01208181,M01AH05,NA,etoricoxib,1404,22/09/2010,"Arthritis, Rheumatoid",5,4,Rheumatoid arthritis,190,1,1
+NCT01604343,L04AC_c,placebo,sirukumab,1113,21/05/2012,"Arthritis, Rheumatoid",5,3,Rheumatoid arthritis,174,1,1
+NCT02308163,L04AA_2,placebo,peficitinib,509,02/12/2014,"Arthritis, Rheumatoid",5,4,Rheumatoid arthritis,110,1,1
+NCT02937701,L04AB02,not a drug,infliximab,558,30/08/2016,"Arthritis, Rheumatoid",5,2,Rheumatoid arthritis,123,1,1
+NCT01721057,L04AA37,placebo,baricitinib,684,01/11/2012,"Arthritis, Rheumatoid",7,3,Rheumatoid arthritis,70,1,1
+NCT02504268,L04AA24,NA,abatacept,994,20/07/2015,"Arthritis, Rheumatoid",9,4,Rheumatoid arthritis,172,1,1
+NCT01119859,L04AC07,adalimumab,tocilizumab,326,01/04/2010,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,54,0,0
+NCT01331837,L04AC07,etanercept,tocilizumab,3080,07/04/2011,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,123,0,0
+NCT01451203,L04AB05,placebo,certolizumab pegol,319,25/09/2011,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,135,0,0
+NCT01519791,L04AB05,placebo,certolizumab pegol,880,19/01/2012,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,520,0,0
+NCT01970475,L04AB04,not a drug,adalimumab,526,23/10/2013,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,32,0,0
+NCT02151851,L04AB05,placebo,certolizumab pegol,431,28/05/2014,"Arthritis, Rheumatoid",2,2,Rheumatoid arthritis,206,0,0
+NCT01142726,L04AA24,placebo,abatacept,511,03/06/2010,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,61,0,0
+NCT01197521,L01XX_1,NA,fostamatinib,923,08/09/2010,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,359,0,0
+NCT01197534,L01XX_1,NA,fostamatinib,913,08/09/2010,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,437,0,0
+NCT01197755,L01XX_1,placebo,fostamatinib,323,08/09/2010,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,135,0,0
+NCT01377012,L04AC10,placebo,secukinumab,637,17/06/2011,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,400,0,0
+NCT01710358,L04AA37,placebo,baricitinib,1307,17/10/2012,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,103,0,0
+NCT01711359,L04AA37,NA,baricitinib,588,18/10/2012,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,118,0,0
+NCT01721044,L04AA37,placebo,baricitinib,525,01/11/2012,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,68,0,0
+NCT02019472,L04AC_c,adalimumab,sirukumab,559,18/12/2013,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,131,0,0
+NCT02629159,L04AA_4,adalimumab,upadacitinib tartrate,1500,10/12/2015,"Arthritis, Rheumatoid",3,3,Rheumatoid arthritis,146,0,0
+NCT01350804,L04AA24,NA,abatacept,551,09/05/2011,"Arthritis, Rheumatoid",4,4,Rheumatoid arthritis,161,0,0
+NCT02706847,L04AA_4,placebo,upadacitinib tartrate,450,18/02/2016,"Arthritis, Rheumatoid",4,4,Rheumatoid arthritis,42,0,0
+NCT01764997,L04AB04,etanercept,adalimumab,776,08/01/2013,"Arthritis, Rheumatoid",5,5,Rheumatoid arthritis,37,0,0
+NCT01395745,L04AA_1,placebo,blisibimod,442,14/07/2011,"Lupus Erythematosus, Systemic",Not reported to CTG,NA,Systemic Lupus Erythematosus,NA,NA,3
+NCT01484496,L04AA26,placebo,belimumab,839,28/11/2011,"Lupus Erythematosus, Systemic",4,2,Systemic Lupus Erythematosus,159,1,1
+NCT01345253,L04AA26,placebo,belimumab,709,28/04/2011,"Lupus Erythematosus, Systemic",2,2,Systemic Lupus Erythematosus,135,0,0
+NCT02446912,L04AX_2,placebo,anifrolumab,460,14/05/2015,"Lupus Erythematosus, Systemic",3,3,Systemic Lupus Erythematosus,88,0,0
+NCT01714817,L04AA24,placebo,abatacept,695,24/10/2012,Lupus Nephritis,2,2,Systemic Lupus Erythematosus,90,0,0
+NCT01729559,B01AB01,enoxaparin,heparin,495,14/11/2012,"Pulmonary Embolism, Thromboembolism, Venous Thrombosis",2,2,Thromboembolism,59,0,0
+NCT02064439,B01AF01,aminosalicylic acid,rivaroxaban,3396,14/02/2014,"Pulmonary Embolism, Venous Thromboembolism, Venous Thrombosis",3,3,Thromboembolism,463,0,0
+NCT02616497,B01AC18,acetylsalicylic acid,triflusal,1400,20/11/2015,Thrombosis,Not reported to CTG,NA,Thromboembolism,NA,NA,3
+NCT01130025,B01AB10,warfarin,tinzaparin,900,24/05/2010,Venous Thromboembolism,Not reported to CTG,NA,Thromboembolism,NA,NA,2
+NCT01205932,B01AF01,enoxaparin,rivaroxaban,402,19/09/2010,Venous Thromboembolism,Not reported to CTG,NA,Thromboembolism,NA,NA,2
+NCT01206972,B01AF01,enoxaparin,rivaroxaban,302,20/09/2010,Venous Thromboembolism,Not reported to CTG,NA,Thromboembolism,NA,NA,2
+NCT02396732,B01AC06,NA,acetylsalicylic acid,800,12/03/2015,Venous Thromboembolism,Not reported to CTG,NA,Thromboembolism,NA,NA,2
+NCT01181102,B01AF_1,enoxaparin,edoxaban,716,12/08/2010,Venous Thromboembolism,2,2,Thromboembolism,97,0,0
+NCT01181167,B01AF_1,enoxaparin,edoxaban,610,12/08/2010,Venous Thromboembolism,2,2,Thromboembolism,55,0,0
+NCT01583218,B01AF_2,enoxaparin,betrixaban,7513,16/04/2012,Venous Thromboembolism,2,2,Thromboembolism,572,0,0
+NCT01499953,B01AF01,fondaparinux,rivaroxaban,472,19/12/2011,Venous Thrombosis,Not reported to CTG,NA,Thromboembolism,NA,NA,3
+NCT01880216,B01AB12,enoxaparin,bemiparin,312,14/06/2013,Venous Thrombosis,Not reported to CTG,NA,Thromboembolism,NA,NA,3
+NCT01043666,G04BD12,placebo,mirabegron,1126,05/01/2010,"Urinary Bladder, Overactive",Not reported to CTG,NA,"Urinary Bladder, Overactive",NA,NA,2
+NCT01089751,G04BD09,placebo,trospium chloride,322,17/03/2010,"Urinary Bladder, Overactive",Not reported to CTG,NA,"Urinary Bladder, Overactive",61,NA,1
+NCT01302054,G04BD11,placebo,fesoterodine,609,18/02/2011,"Urinary Bladder, Overactive",3,2,"Urinary Bladder, Overactive",73,1,1
+NCT01638000,G04BD12,solifenacin,mirabegron,1887,09/07/2012,"Urinary Bladder, Overactive",2,2,"Urinary Bladder, Overactive",131,0,0
+NCT01093534,G04BD08,NA,solifenacin,547,24/03/2010,"Urinary Bladder, Overactive",3,3,"Urinary Bladder, Overactive",35,0,0
+NCT01302067,G04BD11,placebo,fesoterodine,2012,18/02/2011,"Urinary Bladder, Overactive",3,3,"Urinary Bladder, Overactive",210,0,0
+NCT01908829,G04BD12,NA,mirabegron,2174,24/07/2013,"Urinary Bladder, Overactive",3,3,"Urinary Bladder, Overactive",137,0,0
+NCT02045862,G04BD12,NA,mirabegron,2084,23/01/2014,"Urinary Bladder, Overactive",3,3,"Urinary Bladder, Overactive",205,0,0
+NCT02294396,G04BD06,tolterodine,propiverine,649,10/11/2014,"Urinary Bladder, Overactive",4,4,"Urinary Bladder, Overactive",145,0,0
+NCT01972841,G04BD12,solifenacin,mirabegron,3527,25/10/2013,"Urinary Bladder, Overactive",6,6,"Urinary Bladder, Overactive",342,0,0
+NCT01512004,G04BD06,tolterodine,propiverine,324,24/11/2010,"Urinary Bladder, Overactive, Urinary Incontinence, Urge",Not reported to CTG,NA,"Urinary Bladder, Overactive",NA,NA,2
+NCT01264939,R03DX05,placebo,omalizumab,336,20/12/2010,Urticaria,2,2,Chronic idiopathic urticaria,46,0,0
+NCT01287117,R03DX05,placebo,omalizumab,319,27/01/2011,Urticaria,4,4,Chronic idiopathic urticaria,57,0,0
+NCT01292473,R03DX05,NA,omalizumab,323,07/02/2011,Urticaria,4,4,Chronic idiopathic urticaria,33,0,0
